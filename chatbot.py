@@ -52,7 +52,7 @@ def chat(message, history):
     response = ""
     for message in client.chat_completion(
         messages=[{"role": "user", "content": query}],
-        max_tokens=500,
+        max_tokens=1000,
         stream=True,
     ):
         response += message.choices[0].delta.content if message.choices[0].delta.content is not None else ""
