@@ -1,0 +1,3012 @@
+Psyduck:
+Twinleaf Town by Surf at level 20 - 40 with a 90% chance
+Lake Verity by Morning at level 4 - 5 with a 10% chance
+Lake Verity by Day at level 4 - 5 with a 10% chance
+Lake Verity by Night at level 4 - 5 with a 10% chance
+Ravaged Path by Morning at level 6 - 8 with a 10% chance
+Ravaged Path by Day at level 6 - 8 with a 10% chance
+Ravaged Path by Night at level 6 - 8 with a 10% chance
+Route 203 by Surf at level 20 - 40 with a 90% chance
+Eterna City by Surf at level 20 - 40 with a 90% chance
+Route 208 by Surf at level 20 - 40 with a 90% chance
+Route 209 by Surf at level 20 - 40 with a 90% chance
+Route 214 by Surf at level 20 - 40 with a 90% chance
+Route 210 ~ North by Surf at level 20 - 40 with a 90% chance
+Celestic Town by Surf at level 20 - 40 with a 90% chance
+=========================================================
+Golduck:
+Twinleaf Town by Surf at level 20 - 40 with a 10% chance
+Route 203 by Surf at level 20 - 40 with a 10% chance
+Eterna City by Surf at level 20 - 40 with a 10% chance
+Route 208 by Surf at level 20 - 40 with a 10% chance
+Route 209 by Surf at level 20 - 40 with a 10% chance
+Route 214 by Surf at level 20 - 40 with a 10% chance
+Route 210 ~ North by Surf at level 20 - 40 with a 10% chance
+Celestic Town by Surf at level 20 - 40 with a 10% chance
+Sendoff Spring by Surf at level 45 - 55 with a 100% chance
+Lake Valor by Morning at level 53 - 54 with a 10% chance
+Lake Valor by Day at level 53 - 54 with a 10% chance
+Lake Valor by Night at level 53 - 54 with a 10% chance
+Route 225 by Surf at level 65 - 67 with a 40% chance
+Route 230 by Morning at level 65 - 67 with a 10% chance
+Route 230 by Day at level 65 - 67 with a 10% chance
+Route 230 by Night at level 65 - 67 with a 10% chance
+=========================================================
+Magikarp:
+Twinleaf Town by Old Rod at level 10 with a 65% chance
+Twinleaf Town by Good Rod at level 25 with a 65% chance
+Lake Verity by Old Rod at level 10 with a 100% chance
+Lake Verity by Good Rod at level 25 with a 100% chance
+Route 204 ~ South by Old Rod at level 10 with a 60% chance
+Route 204 ~ South by Good Rod at level 25 with a 60% chance
+Ravaged Path by Old Rod at level 10 with a 65% chance
+Ravaged Path by Good Rod at level 25 with a 65% chance
+Route 203 by Old Rod at level 10 with a 65% chance
+Route 203 by Good Rod at level 25 with a 60% chance
+Oreburgh Gate ~ B1F by Old Rod at level 10 with a 65% chance
+Oreburgh Gate ~ B1F by Good Rod at level 25 with a 65% chance
+Valley Windworks by Old Rod at level 10 with a 60% chance
+Valley Windworks by Good Rod at level 25 with a 60% chance
+Route 205 ~ South by Old Rod at level 10 with a 60% chance
+Route 205 ~ South by Good Rod at level 25 with a 60% chance
+Route 205 ~ North by Old Rod at level 10 with a 65% chance
+Route 205 ~ North by Good Rod at level 25 with a 65% chance
+Eterna City by Old Rod at level 10 with a 60% chance
+Eterna City by Good Rod at level 25 with a 60% chance
+Mt. Coronet ~ Route 207 Entrance by Old Rod at level 10 with a 65% chance
+Mt. Coronet ~ Route 207 Entrance by Good Rod at level 25 with a 65% chance
+Route 208 by Old Rod at level 10 with a 60% chance
+Route 208 by Good Rod at level 25 with a 60% chance
+Route 212 ~ North by Old Rod at level 10 with a 65% chance
+Route 212 ~ North by Good Rod at level 25 with a 65% chance
+Route 209 by Old Rod at level 10 with a 65% chance
+Route 209 by Good Rod at level 25 with a 65% chance
+Route 214 by Old Rod at level 10 with a 65% chance
+Route 214 by Good Rod at level 25 with a 65% chance
+Route 213 by Old Rod at level 10 with a 60% chance
+Route 213 by Good Rod at level 25 with a 60% chance
+Pastoria City by Old Rod at level 10 with a 60% chance
+Pastoria City by Good Rod at level 25 with a 60% chance
+Great Marsh ~ Area 1/2 by Old Rod at level 10 with a 60% chance
+Great Marsh ~ Area 1/2 by Good Rod at level 25 with a 60% chance
+Great Marsh ~ Area 3/4 by Old Rod at level 10 with a 60% chance
+Great Marsh ~ Area 3/4 by Good Rod at level 25 with a 60% chance
+Great Marsh ~ Area 5/6 by Old Rod at level 10 with a 60% chance
+Great Marsh ~ Area 5/6 by Good Rod at level 25 with a 60% chance
+Route 212 ~ South by Old Rod at level 10 with a 60% chance
+Route 212 ~ South by Good Rod at level 25 with a 60% chance
+Route 210 ~ North by Old Rod at level 10 with a 60% chance
+Route 210 ~ North by Good Rod at level 25 with a 60% chance
+Celestic Town by Old Rod at level 10 with a 90% chance
+Celestic Town by Good Rod at level 25 with a 90% chance
+Fuego Ironworks by Old Rod at level 10 with a 100% chance
+Fuego Ironworks by Good Rod at level 25 with a 65% chance
+Route 218 by Old Rod at level 10 with a 60% chance
+Route 218 by Good Rod at level 25 with a 60% chance
+Canalave City by Old Rod at level 10 with a 60% chance
+Canalave City by Good Rod at level 25 with a 60% chance
+Iron Island ~ Outside by Old Rod at level 10 with a 60% chance
+Iron Island ~ Outside by Good Rod at level 25 with a 60% chance
+Lake Acuity by Old Rod at level 10 with a 100% chance
+Lake Acuity by Good Rod at level 25 with a 100% chance
+Mt. Coronet ~ 4F by Old Rod at level 10 with a 60% chance
+Mt. Coronet ~ 4F by Good Rod at level 25 with a 60% chance
+Sendoff Spring by Old Rod at level 10 with a 100% chance
+Sendoff Spring by Good Rod at level 25 with a 100% chance
+Lake Valor by Old Rod at level 10 with a 100% chance
+Lake Valor by Good Rod at level 25 with a 100% chance
+Route 222 by Old Rod at level 10 with a 60% chance
+Route 222 by Good Rod at level 25 with a 60% chance
+Sunyshore City by Old Rod at level 10 with a 60% chance
+Sunyshore City by Good Rod at level 25 with a 60% chance
+Route 223 by Old Rod at level 10 with a 60% chance
+Route 223 by Good Rod at level 25 with a 60% chance
+Pokémon League by Old Rod at level 10 with a 60% chance
+Pokémon League by Good Rod at level 25 with a 60% chance
+Victory Road ~ B1F by Old Rod at level 10 with a 100% chance
+Victory Road ~ B1F by Good Rod at level 25 with a 100% chance
+Victory Road ~ 1F Back 2 by Old Rod at level 10 with a 100% chance
+Victory Road ~ 1F Back 2 by Good Rod at level 25 with a 100% chance
+Route 224 by Old Rod at level 10 with a 60% chance
+Route 224 by Good Rod at level 25 with a 60% chance
+Route 225 by Old Rod at level 10 with a 65% chance
+Route 225 by Good Rod at level 25 with a 65% chance
+Route 226 by Old Rod at level 10 with a 60% chance
+Route 226 by Good Rod at level 25 with a 60% chance
+Route 227 by Old Rod at level 10 with a 65% chance
+Route 227 by Good Rod at level 25 with a 65% chance
+Route 228 by Old Rod at level 10 with a 65% chance
+Route 228 by Good Rod at level 25 with a 65% chance
+Route 229 by Old Rod at level 10 with a 65% chance
+Route 229 by Good Rod at level 25 with a 65% chance
+Resort Area by Surf at level 1 - 100 with a 100% chance
+Resort Area by Old Rod at level 10 with a 100% chance
+Resort Area by Good Rod at level 25 with a 100% chance
+Resort Area by Super Rod at level 50 with a 100% chance
+Route 230 by Old Rod at level 10 with a 60% chance
+Route 230 by Good Rod at level 25 with a 65% chance
+=========================================================
+Poliwag:
+Twinleaf Town by Old Rod at level 10 with a 35% chance
+Twinleaf Town by Good Rod at level 25 with a 35% chance
+Eterna City by Old Rod at level 10 with a 30% chance
+Eterna City by Good Rod at level 25 with a 30% chance
+Pastoria City by Old Rod at level 10 with a 30% chance
+Pastoria City by Good Rod at level 25 with a 30% chance
+=========================================================
+Gyarados:
+Twinleaf Town by Super Rod at level 50 with a 65% chance
+Lake Verity by Super Rod at level 50 with a 100% chance
+Route 204 ~ South by Super Rod at level 50 with a 60% chance
+Ravaged Path by Super Rod at level 50 with a 65% chance
+Route 203 by Super Rod at level 50 with a 60% chance
+Oreburgh Gate ~ B1F by Super Rod at level 50 with a 65% chance
+Valley Windworks by Super Rod at level 50 with a 60% chance
+Route 205 ~ South by Super Rod at level 50 with a 60% chance
+Route 205 ~ North by Super Rod at level 50 with a 65% chance
+Eterna City by Super Rod at level 50 with a 60% chance
+Mt. Coronet ~ Route 207 Entrance by Super Rod at level 50 with a 65% chance
+Route 208 by Super Rod at level 50 with a 60% chance
+Route 212 ~ North by Super Rod at level 50 with a 65% chance
+Route 209 by Super Rod at level 50 with a 65% chance
+Route 214 by Super Rod at level 50 with a 65% chance
+Route 213 by Super Rod at level 50 with a 60% chance
+Pastoria City by Super Rod at level 50 with a 60% chance
+Great Marsh ~ Area 1/2 by Super Rod at level 50 with a 60% chance
+Great Marsh ~ Area 3/4 by Super Rod at level 50 with a 60% chance
+Great Marsh ~ Area 5/6 by Super Rod at level 50 with a 60% chance
+Route 212 ~ South by Super Rod at level 50 with a 60% chance
+Route 210 ~ North by Super Rod at level 50 with a 60% chance
+Celestic Town by Super Rod at level 50 with a 90% chance
+Fuego Ironworks by Super Rod at level 50 with a 60% chance
+Route 218 by Super Rod at level 50 with a 60% chance
+Canalave City by Super Rod at level 50 with a 60% chance
+Iron Island ~ Outside by Super Rod at level 50 with a 60% chance
+Lake Acuity by Super Rod at level 50 with a 100% chance
+Mt. Coronet ~ 4F by Super Rod at level 50 with a 60% chance
+Sendoff Spring by Super Rod at level 50 with a 100% chance
+Lake Valor by Super Rod at level 50 with a 100% chance
+Route 222 by Super Rod at level 50 with a 60% chance
+Sunyshore City by Super Rod at level 50 with a 60% chance
+Route 223 by Super Rod at level 50 with a 60% chance
+Pokémon League by Super Rod at level 50 with a 60% chance
+Victory Road ~ B1F by Super Rod at level 50 with a 100% chance
+Victory Road ~ 1F Back 2 by Super Rod at level 50 with a 100% chance
+Route 224 by Super Rod at level 50 with a 60% chance
+Route 225 by Super Rod at level 50 with a 65% chance
+Route 226 by Super Rod at level 50 with a 60% chance
+Route 227 by Super Rod at level 50 with a 65% chance
+Route 228 by Super Rod at level 50 with a 65% chance
+Route 229 by Super Rod at level 50 with a 65% chance
+Route 230 by Super Rod at level 50 with a 65% chance
+=========================================================
+Poliwhirl:
+Twinleaf Town by Super Rod at level 50 with a 35% chance
+Eterna City by Super Rod at level 50 with a 30% chance
+Pastoria City by Super Rod at level 50 with a 30% chance
+Route 225 by Surf at level 65 - 67 with a 60% chance
+Route 227 by Surf at level 65 - 67 with a 100% chance
+Route 228 by Surf at level 65 - 67 with a 100% chance
+=========================================================
+Starly:
+Route 201 by Morning at level 4 - 5 with a 30% chance
+Route 201 by Day at level 4 - 5 with a 30% chance
+Route 201 by Night at level 4 - 5 with a 30% chance
+Lake Verity by Morning at level 4 - 5 with a 30% chance
+Lake Verity by Day at level 4 - 5 with a 30% chance
+Lake Verity by Night at level 4 - 5 with a 30% chance
+Route 204 ~ South by Morning at level 6 - 7 with a 20% chance
+Route 204 ~ South by Day at level 6 - 7 with a 20% chance
+Route 204 ~ South by Night at level 6 - 7 with a 20% chance
+Route 203 by Morning at level 7 - 8 with a 25% chance
+Route 203 by Day at level 7 - 8 with a 25% chance
+Route 203 by Night at level 7 - 8 with a 25% chance
+Route 204 ~ North by Morning at level 11 - 12 with a 20% chance
+Route 204 ~ North by Day at level 11 - 12 with a 20% chance
+Route 204 ~ North by Night at level 11 - 12 with a 20% chance
+Route 205 ~ North by Honey Tree at level 16 with a 30% chance
+=========================================================
+Bidoof:
+Route 201 by Morning at level 4 - 5 with a 30% chance
+Route 201 by Day at level 4 - 5 with a 30% chance
+Route 201 by Night at level 4 - 5 with a 30% chance
+Lake Verity by Morning at level 4 - 5 with a 20% chance
+Lake Verity by Day at level 4 - 5 with a 20% chance
+Lake Verity by Night at level 4 - 5 with a 20% chance
+Route 203 by Morning at level 7 - 8 with a 20% chance
+Route 203 by Day at level 7 - 8 with a 20% chance
+Route 203 by Night at level 7 - 8 with a 20% chance
+Route 205 ~ North by Morning at level 15 - 17 with a 20% chance
+Route 205 ~ North by Day at level 15 - 17 with a 20% chance
+Route 205 ~ North by Night at level 15 - 17 with a 20% chance
+=========================================================
+Pidgey:
+Route 201 by Morning at level 4 - 5 with a 10% chance
+Route 201 by Day at level 4 - 5 with a 20% chance
+Route 205 ~ North by Honey Tree at level 16 with a 20% chance
+=========================================================
+Kricketot:
+Route 201 by Morning at level 4 - 5 with a 10% chance
+Route 201 by Night at level 4 - 5 with a 10% chance
+=========================================================
+Nidoran♂:
+Route 201 by Morning at level 4 - 5 with a 10% chance
+Route 201 by Day at level 4 - 5 with a 10% chance
+Route 201 by Night at level 4 - 5 with a 10% chance
+=========================================================
+Nidoran Male:
+Route 201 by Morning at level 4 - 5 with a 10% chance
+Route 201 by Day at level 4 - 5 with a 10% chance
+Route 201 by Night at level 4 - 5 with a 10% chance
+=========================================================
+Hoothoot:
+Route 201 by Night at level 4 - 5 with a 10% chance
+Route 202 by Night at level 5 - 6 with a 20% chance
+Route 205 ~ North by Honey Tree at level 16 with a 20% chance
+=========================================================
+Doduo:
+Route 201 by Poké Radar at level 4 - 5 with a 22% chance
+=========================================================
+Surskit:
+Lake Verity by Morning at level 4 - 5 with a 20% chance
+Lake Verity by Day at level 4 - 5 with a 20% chance
+Lake Verity by Night at level 4 - 5 with a 20% chance
+Lake Verity by Surf at level 20 - 40 with a 90% chance
+Lake Valor by Surf at level 35 - 55 with a 90% chance
+=========================================================
+Azurill:
+Lake Verity by Morning at level 4 - 5 with a 10% chance
+Lake Verity by Day at level 4 - 5 with a 10% chance
+Lake Verity by Night at level 4 - 5 with a 10% chance
+=========================================================
+Wingull:
+Lake Verity by Morning at level 4 - 5 with a 10% chance
+Lake Verity by Day at level 4 - 5 with a 10% chance
+Lake Verity by Night at level 4 - 5 with a 10% chance
+Route 213 by Surf at level 20 - 40 with a 30% chance
+Route 219 by Surf at level vels: 30 - 45 with a 60% chance
+Route 220 by Surf at level vels: 30 - 45 with a 60% chance
+Route 221 by Surf at level 30 - 45 with a 60% chance
+Iron Island ~ Outside by Surf at level 30 - 45 with a 60% chance
+Route 222 by Surf at level 35 - 55 with a 30% chance
+=========================================================
+Wynaut:
+Lake Verity by Poké Radar at level 4 - 5 with a 22% chance
+=========================================================
+Masquerain:
+Lake Verity by Surf at level 20 - 40 with a 10% chance
+Lake Valor by Morning at level 53 - 54 with a 20% chance
+Lake Valor by Day at level 53 - 54 with a 20% chance
+Lake Valor by Night at level 53 - 54 with a 20% chance
+Lake Valor by Surf at level 35 - 55 with a 10% chance
+Route 229 by Surf at level 65 - 67 with a 100% chance
+=========================================================
+Shinx:
+Route 202 by Morning at level 5 - 6 with a 20% chance
+Route 202 by Day at level 5 - 6 with a 20% chance
+Route 202 by Night at level 5 - 6 with a 20% chance
+=========================================================
+Zigzagoon:
+Route 202 by Morning at level 5 - 6 with a 20% chance
+Route 202 by Day at level 5 - 6 with a 20% chance
+Route 202 by Night at level 5 - 6 with a 20% chance
+=========================================================
+Sentret:
+Route 202 by Morning at level 5 - 6 with a 20% chance
+Route 202 by Day at level 5 - 6 with a 20% chance
+=========================================================
+Rattata:
+Route 202 by Morning at level 5 - 6 with a 10% chance
+Route 202 by Day at level 5 - 6 with a 10% chance
+Route 202 by Night at level 5 - 6 with a 10% chance
+Old Chateau (All Rooms) by Morning at level 15 - 18 with a 30% chance
+Old Chateau (All Rooms) by Day at level 15 - 18 with a 30% chance
+Old Chateau (All Rooms) by Night at level 15 - 18 with a 30% chance
+=========================================================
+Poochyena:
+Route 202 by Morning at level 5 - 6 with a 10% chance
+Route 202 by Day at level 5 - 6 with a 10% chance
+Route 202 by Night at level 5 - 6 with a 10% chance
+=========================================================
+Growlithe:
+Route 202 by Morning at level 5 - 6 with a 10% chance
+Route 202 by Day at level 5 - 6 with a 10% chance
+Route 202 by Night at level 5 - 6 with a 10% chance
+=========================================================
+Burmy:
+Route 202 by Morning at level 5 - 6 with a 10% chance
+Route 202 by Day at level 5 - 6 with a 10% chance
+Route 202 by Night at level 5 - 6 with a 10% chance
+Route 205 ~ South by Honey Tree at level 12 with a 20% chance
+Route 206 by Honey Tree at level 21 with a 20% chance
+=========================================================
+Houndour:
+Route 202 by Poké Radar at level 5 - 6 with a 22% chance
+Route 214 by Morning at level 28 - 32 with a 20% chance
+Route 214 by Day at level 28 - 32 with a 20% chance
+Route 214 by Night at level 28 - 32 with a 20% chance
+=========================================================
+Budew:
+Route 204 ~ South by Morning at level 6 - 7 with a 20% chance
+Route 204 ~ South by Day at level 6 - 7 with a 20% chance
+Route 204 ~ South by Night at level 6 - 7 with a 20% chance
+Route 204 ~ North by Morning at level 11 - 12 with a 20% chance
+Route 204 ~ North by Day at level 11 - 12 with a 20% chance
+Route 204 ~ North by Night at level 11 - 12 with a 20% chance
+=========================================================
+Bellsprout:
+Route 204 ~ South by Morning at level 6 - 7 with a 10% chance
+Route 204 ~ South by Day at level 6 - 7 with a 10% chance
+Route 204 ~ South by Night at level 6 - 7 with a 10% chance
+Route 204 ~ North by Morning at level 11 - 12 with a 10% chance
+Route 204 ~ North by Day at level 11 - 12 with a 10% chance
+Route 204 ~ North by Night at level 11 - 12 with a 10% chance
+=========================================================
+Ralts:
+Route 204 ~ South by Morning at level 6 - 7 with a 10% chance
+Route 204 ~ South by Day at level 6 - 7 with a 10% chance
+Route 204 ~ South by Night at level 6 - 7 with a 10% chance
+Route 204 ~ North by Morning at level 11 - 12 with a 10% chance
+Route 204 ~ North by Day at level 11 - 12 with a 10% chance
+Route 204 ~ North by Night at level 11 - 12 with a 10% chance
+=========================================================
+Caterpie:
+Route 204 ~ South by Morning at level 6 - 7 with a 10% chance
+Route 204 ~ South by Day at level 6 - 7 with a 10% chance
+Route 204 ~ South by Night at level 6 - 7 with a 10% chance
+Route 204 ~ North by Morning at level 11 - 12 with a 10% chance
+Route 204 ~ North by Day at level 11 - 12 with a 10% chance
+Route 204 ~ North by Night at level 11 - 12 with a 10% chance
+Valley Windworks by Honey Tree at level 12 with a 20% chance
+=========================================================
+Weedle:
+Route 204 ~ South by Morning at level 6 - 7 with a 10% chance
+Route 204 ~ South by Day at level 6 - 7 with a 10% chance
+Route 204 ~ South by Night at level 6 - 7 with a 10% chance
+Route 204 ~ North by Morning at level 11 - 12 with a 10% chance
+Route 204 ~ North by Day at level 11 - 12 with a 10% chance
+Route 204 ~ North by Night at level 11 - 12 with a 10% chance
+Valley Windworks by Honey Tree at level 12 with a 20% chance
+=========================================================
+Wurmple:
+Route 204 ~ South by Morning at level 6 - 7 with a 10% chance
+Route 204 ~ South by Day at level 6 - 7 with a 10% chance
+Route 204 ~ North by Morning at level 11 - 12 with a 10% chance
+Route 204 ~ North by Day at level 11 - 12 with a 10% chance
+Route 205 ~ South by Honey Tree at level 12 with a 20% chance
+=========================================================
+Ledyba:
+Route 204 ~ South by Morning at level 6 - 7 with a 10% chance
+Route 204 ~ North by Morning at level 11 - 12 with a 10% chance
+=========================================================
+Sunkern:
+Route 204 ~ South by Day at level 6 - 7 with a 10% chance
+Route 204 ~ North by Day at level 11 - 12 with a 10% chance
+Route 229 by Day at level 65 - 67 with a 20% chance
+=========================================================
+Oddish:
+Route 204 ~ South by Night at level 6 - 7 with a 10% chance
+Route 204 ~ North by Night at level 11 - 12 with a 10% chance
+=========================================================
+Spinarak:
+Route 204 ~ South by Night at level 6 - 7 with a 10% chance
+Route 204 ~ North by Night at level 11 - 12 with a 10% chance
+=========================================================
+Roselia:
+Route 204 ~ South by Poké Radar at level 6 - 7 with a 22% chance
+Route 204 ~ North by Poké Radar at level 11 - 12 with a 22% chance
+Route 208 by Morning at level 23 - 24 with a 20% chance
+Route 208 by Day at level 23 - 24 with a 20% chance
+Route 208 by Night at level 23 - 24 with a 20% chance
+Route 212 ~ North by Morning at level 24 - 26 with a 10% chance
+Route 212 ~ North by Day at level 24 - 26 with a 10% chance
+Route 212 ~ North by Night at level 24 - 26 with a 10% chance
+Route 224 by Morning at level 59 with a 10% chance
+Route 224 by Day at level 59 with a 10% chance
+Route 224 by Night at level 59 with a 10% chance
+Route 229 by Morning at level 65 - 67 with a 15% chance
+Route 229 by Day at level 65 - 67 with a 15% chance
+Route 229 by Night at level 65 - 67 with a 15% chance
+=========================================================
+Marill:
+Route 204 ~ South by Surf at level 20 - 40 with a 90% chance
+Route 205 ~ North by Morning at level 15 - 17 with a 20% chance
+Route 205 ~ North by Day at level 15 - 17 with a 20% chance
+Route 205 ~ North by Night at level 15 - 17 with a 20% chance
+Route 205 ~ North by Surf at level 20 - 40 with a 90% chance
+Route 212 ~ North by Morning at level 24 - 26 with a 20% chance
+Route 212 ~ North by Day at level 24 - 26 with a 20% chance
+Route 212 ~ North by Night at level 24 - 26 with a 20% chance
+Route 212 ~ North by Surf at level 20 - 40 with a 90% chance
+Route 215 by Morning at level 27 - 30 with a 25% chance
+Route 215 by Day at level 27 - 30 with a 25% chance
+Route 215 by Night at level 27 - 30 with a 25% chance
+=========================================================
+Azumarill:
+Route 204 ~ South by Surf at level 20 - 40 with a 10% chance
+Route 205 ~ North by Surf at level 20 - 40 with a 10% chance
+Route 212 ~ North by Surf at level 20 - 40 with a 10% chance
+Victory Road ~ B1F by Morning at level 59 with a 20% chance
+Victory Road ~ B1F by Day at level 59 with a 20% chance
+Victory Road ~ B1F by Night at level 59 with a 20% chance
+Victory Road ~ 1F Back 1 by Morning at level 59 with a 20% chance
+Victory Road ~ 1F Back 1 by Day at level 59 with a 20% chance
+Victory Road ~ 1F Back 1 by Night at level 59 with a 20% chance
+Victory Road ~ 1F Back 2 by Morning at level 59 with a 20% chance
+Victory Road ~ 1F Back 2 by Day at level 59 with a 20% chance
+Victory Road ~ 1F Back 2 by Night at level 59 with a 20% chance
+Victory Road ~ 1F Back 3 by Morning at level 59 with a 20% chance
+Victory Road ~ 1F Back 3 by Day at level 59 with a 20% chance
+Victory Road ~ 1F Back 3 by Night at level 59 with a 20% chance
+=========================================================
+Goldeen:
+Route 204 ~ South by Old Rod at level 10 with a 30% chance
+Route 204 ~ South by Good Rod at level 25 with a 30% chance
+Route 208 by Old Rod at level 10 with a 30% chance
+Route 208 by Good Rod at level 25 with a 30% chance
+Route 212 ~ North by Old Rod at level 10 with a 35% chance
+Route 212 ~ North by Good Rod at level 25 with a 35% chance
+Route 209 by Old Rod at level 10 with a 35% chance
+Route 209 by Good Rod at level 25 with a 35% chance
+Route 214 by Old Rod at level 10 with a 35% chance
+Route 214 by Good Rod at level 25 with a 35% chance
+Route 229 by Old Rod at level 10 with a 35% chance
+Route 229 by Good Rod at level 25 with a 35% chance
+=========================================================
+Corphish:
+Route 204 ~ South by Old Rod at level 10 with a 10% chance
+Route 204 ~ South by Good Rod at level 25 with a 10% chance
+Route 203 by Old Rod at level 10 with a 35% chance
+Route 203 by Good Rod at level 25 with a 35% chance
+Route 205 ~ North by Old Rod at level 10 with a 35% chance
+Route 205 ~ North by Good Rod at level 25 with a 35% chance
+=========================================================
+Seaking:
+Route 204 ~ South by Super Rod at level 50 with a 30% chance
+Route 208 by Super Rod at level 50 with a 30% chance
+Route 212 ~ North by Super Rod at level 50 with a 35% chance
+Route 209 by Super Rod at level 50 with a 35% chance
+Route 214 by Super Rod at level 50 with a 35% chance
+Route 229 by Super Rod at level 50 with a 35% chance
+=========================================================
+Crawdaunt:
+Route 204 ~ South by Super Rod at level 50 with a 10% chance
+Route 203 by Super Rod at level 50 with a 35% chance
+Route 205 ~ North by Super Rod at level 50 with a 35% chance
+=========================================================
+Zubat:
+Ravaged Path by Morning at level 6 - 8 with a 30% chance
+Ravaged Path by Day at level 6 - 8 with a 30% chance
+Ravaged Path by Night at level 6 - 8 with a 30% chance
+Oreburgh Gate ~ 1F by Morning at level 7 - 9 with a 35% chance
+Oreburgh Gate ~ 1F by Day at level 7 - 9 with a 35% chance
+Oreburgh Gate ~ 1F by Night at level 7 - 9 with a 35% chance
+Oreburgh Gate ~ B1F by Morning at level 8 - 10 with a 35% chance
+Oreburgh Gate ~ B1F by Day at level 8 - 10 with a 35% chance
+Oreburgh Gate ~ B1F by Night at level 8 - 10 with a 35% chance
+Oreburgh Gate ~ B1F by Surf at level 20 - 40 with a 90% chance
+Oreburgh Mine ~ 1F by Morning at level 9 - 10 with a 25% chance
+Oreburgh Mine ~ 1F by Day at level 9 - 10 with a 25% chance
+Oreburgh Mine ~ 1F by Night at level 9 - 10 with a 25% chance
+Oreburgh Mine ~ B1F by Morning at level 10 - 11 with a 25% chance
+Oreburgh Mine ~ B1F by Day at level 10 - 11 with a 25% chance
+Oreburgh Mine ~ B1F by Night at level 10 - 11 with a 25% chance
+Mt. Coronet ~ Route 211 Entrance by Morning at level 16 - 18 with a 10% chance
+Mt. Coronet ~ Route 211 Entrance by Day at level 16 - 18 with a 10% chance
+Mt. Coronet ~ Route 211 Entrance by Night at level 16 - 18 with a 10% chance
+Mt. Coronet ~ Tunnel to Route 211 Entrance by Morning at level 18 - 19 with a 10% chance
+Mt. Coronet ~ Tunnel to Route 211 Entrance by Day at level 18 - 19 with a 10% chance
+Mt. Coronet ~ Tunnel to Route 211 Entrance by Night at level 18 - 19 with a 10% chance
+Mt. Coronet ~ B1F by Morning at level 18 - 20 with a 10% chance
+Mt. Coronet ~ B1F by Day at level 18 - 20 with a 10% chance
+Mt. Coronet ~ B1F by Night at level 18 - 20 with a 10% chance
+Mt. Coronet ~ Route 216 Entrance by Morning at level 18 - 19 with a 10% chance
+Mt. Coronet ~ Route 216 Entrance by Day at level 18 - 19 with a 10% chance
+Mt. Coronet ~ Route 216 Entrance by Night at level 18 - 19 with a 10% chance
+Wayward Cave (Both) by Morning at level 20 - 22 with a 20% chance
+Wayward Cave (Both) by Day at level 20 - 22 with a 20% chance
+Wayward Cave (Both) by Night at level 20 - 22 with a 20% chance
+Mt. Coronet ~ Route 207 Entrance by Surf at level 20 - 40 with a 90% chance
+Mt. Coronet ~ 4F by Surf at level 35 - 55 with a 90% chance
+=========================================================
+Geodude:
+Ravaged Path by Morning at level 6 - 8 with a 20% chance
+Ravaged Path by Day at level 6 - 8 with a 20% chance
+Ravaged Path by Night at level 6 - 8 with a 20% chance
+Oreburgh Gate ~ 1F by Morning at level 7 - 9 with a 35% chance
+Oreburgh Gate ~ 1F by Day at level 7 - 9 with a 35% chance
+Oreburgh Gate ~ 1F by Night at level 7 - 9 with a 35% chance
+Oreburgh Gate ~ B1F by Morning at level 8 - 10 with a 35% chance
+Oreburgh Gate ~ B1F by Day at level 8 - 10 with a 35% chance
+Oreburgh Gate ~ B1F by Night at level 8 - 10 with a 35% chance
+Oreburgh Mine ~ 1F by Morning at level 9 - 10 with a 25% chance
+Oreburgh Mine ~ 1F by Day at level 9 - 10 with a 25% chance
+Oreburgh Mine ~ 1F by Night at level 9 - 10 with a 25% chance
+Oreburgh Mine ~ B1F by Morning at level 10 - 11 with a 25% chance
+Oreburgh Mine ~ B1F by Day at level 10 - 11 with a 25% chance
+Oreburgh Mine ~ B1F by Night at level 10 - 11 with a 25% chance
+Mt. Coronet ~ Route 211 Entrance by Morning at level 16 - 18 with a 20% chance
+Mt. Coronet ~ Route 211 Entrance by Day at level 16 - 18 with a 20% chance
+Mt. Coronet ~ Route 211 Entrance by Night at level 16 - 18 with a 20% chance
+Mt. Coronet ~ Tunnel to Route 211 Entrance by Morning at level 18 - 19 with a 20% chance
+Mt. Coronet ~ Tunnel to Route 211 Entrance by Day at level 18 - 19 with a 20% chance
+Mt. Coronet ~ Tunnel to Route 211 Entrance by Night at level 18 - 19 with a 20% chance
+Mt. Coronet ~ B1F by Morning at level 18 - 20 with a 20% chance
+Mt. Coronet ~ B1F by Day at level 18 - 20 with a 20% chance
+Mt. Coronet ~ B1F by Night at level 18 - 20 with a 20% chance
+Mt. Coronet ~ Route 216 Entrance by Morning at level 18 - 19 with a 20% chance
+Mt. Coronet ~ Route 216 Entrance by Day at level 18 - 19 with a 20% chance
+Mt. Coronet ~ Route 216 Entrance by Night at level 18 - 19 with a 20% chance
+Wayward Cave (Both) by Morning at level 20 - 22 with a 20% chance
+Wayward Cave (Both) by Day at level 20 - 22 with a 20% chance
+Wayward Cave (Both) by Night at level 20 - 22 with a 20% chance
+Mt. Coronet ~ Route 207 Entrance by Morning at level 22 - 23 with a 20% chance
+Mt. Coronet ~ Route 207 Entrance by Day at level 22 - 23 with a 20% chance
+Mt. Coronet ~ Route 207 Entrance by Night at level 22 - 23 with a 20% chance
+=========================================================
+Wooper:
+Ravaged Path by Morning at level 6 - 8 with a 20% chance
+Ravaged Path by Day at level 6 - 8 with a 20% chance
+Ravaged Path by Night at level 6 - 8 with a 20% chance
+Ravaged Path by Surf at level 20 - 40 with a 90% chance
+Great Marsh ~ Area 1/2 by Surf at level 20 - 40 with a 90% chance
+Great Marsh ~ Area 3/4 by Surf at level 20 - 40 with a 90% chance
+Great Marsh ~ Area 5/6 by Surf at level 20 - 40 with a 90% chance
+Route 212 ~ South by Surf at level 20 - 40 with a 30% chance
+=========================================================
+Sandshrew:
+Ravaged Path by Morning at level 6 - 8 with a 10% chance
+Ravaged Path by Day at level 6 - 8 with a 10% chance
+Ravaged Path by Night at level 6 - 8 with a 10% chance
+Wayward Cave (Both) by Morning at level 20 - 22 with a 10% chance
+Wayward Cave (Both) by Day at level 20 - 22 with a 10% chance
+Wayward Cave (Both) by Night at level 20 - 22 with a 10% chance
+=========================================================
+Makuhita:
+Ravaged Path by Morning at level 6 - 8 with a 10% chance
+Ravaged Path by Day at level 6 - 8 with a 10% chance
+Ravaged Path by Night at level 6 - 8 with a 10% chance
+=========================================================
+Quagsire:
+Ravaged Path by Surf at level 20 - 40 with a 10% chance
+Great Marsh ~ Area 1/2 by Morning at level 33 - 36 with a 20% chance
+Great Marsh ~ Area 1/2 by Day at level 33 - 36 with a 20% chance
+Great Marsh ~ Area 1/2 by Night at level 33 - 36 with a 20% chance
+Great Marsh ~ Area 1/2 by Surf at level 20 - 40 with a 10% chance
+Great Marsh ~ Area 3/4 by Surf at level 20 - 40 with a 10% chance
+Great Marsh ~ Area 5/6 by Surf at level 20 - 40 with a 10% chance
+Route 212 ~ South by Surf at level 20 - 40 with a 5% chance
+=========================================================
+Barboach:
+Ravaged Path by Old Rod at level 10 with a 35% chance
+Ravaged Path by Good Rod at level 25 with a 35% chance
+Oreburgh Gate ~ B1F by Old Rod at level 10 with a 35% chance
+Oreburgh Gate ~ B1F by Good Rod at level 25 with a 35% chance
+Mt. Coronet ~ Route 207 Entrance by Old Rod at level 10 with a 35% chance
+Mt. Coronet ~ Route 207 Entrance by Good Rod at level 25 with a 35% chance
+Great Marsh ~ Area 1/2 by Old Rod at level 10 with a 30% chance
+Great Marsh ~ Area 1/2 by Good Rod at level 25 with a 30% chance
+Great Marsh ~ Area 3/4 by Old Rod at level 10 with a 30% chance
+Great Marsh ~ Area 3/4 by Good Rod at level 25 with a 30% chance
+Great Marsh ~ Area 5/6 by Old Rod at level 10 with a 30% chance
+Great Marsh ~ Area 5/6 by Good Rod at level 25 with a 30% chance
+Route 212 ~ South by Old Rod at level 10 with a 30% chance
+Route 212 ~ South by Good Rod at level 25 with a 30% chance
+Route 225 by Old Rod at level 10 with a 35% chance
+Route 225 by Good Rod at level 25 with a 35% chance
+Route 227 by Old Rod at level 10 with a 35% chance
+Route 227 by Good Rod at level 25 with a 35% chance
+Route 228 by Old Rod at level 10 with a 35% chance
+Route 228 by Good Rod at level 25 with a 35% chance
+=========================================================
+Whiscash:
+Ravaged Path by Super Rod at level 50 with a 35% chance
+Oreburgh Gate ~ B1F by Super Rod at level 50 with a 35% chance
+Mt. Coronet ~ Route 207 Entrance by Super Rod at level 50 with a 35% chance
+Great Marsh ~ Area 1/2 by Super Rod at level 50 with a 30% chance
+Great Marsh ~ Area 3/4 by Super Rod at level 50 with a 30% chance
+Great Marsh ~ Area 5/6 by Super Rod at level 50 with a 30% chance
+Route 212 ~ South by Super Rod at level 50 with a 30% chance
+Route 225 by Super Rod at level 50 with a 35% chance
+Route 227 by Super Rod at level 50 with a 35% chance
+Route 228 by Super Rod at level 50 with a 35% chance
+=========================================================
+Spearow:
+Route 203 by Morning at level 7 - 8 with a 15% chance
+Route 203 by Day at level 7 - 8 with a 15% chance
+Route 203 by Night at level 7 - 8 with a 15% chance
+=========================================================
+Seedot:
+Route 203 by Morning at level 7 - 8 with a 10% chance
+Route 203 by Day at level 7 - 8 with a 10% chance
+Route 203 by Night at level 7 - 8 with a 10% chance
+Floaroma Meadow by Honey Tree at level 12 with a 20% chance
+Route 208 by Honey Tree at level 23 with a 20% chance
+=========================================================
+Lotad:
+Route 203 by Morning at level 7 - 8 with a 10% chance
+Route 203 by Day at level 7 - 8 with a 10% chance
+Route 203 by Night at level 7 - 8 with a 10% chance
+=========================================================
+Cubone:
+Route 203 by Morning at level 7 - 8 with a 10% chance
+Route 203 by Day at level 7 - 8 with a 10% chance
+Route 203 by Night at level 7 - 8 with a 10% chance
+=========================================================
+Abra:
+Route 203 by Morning at level 7 - 8 with a 10% chance
+Route 203 by Day at level 7 - 8 with a 10% chance
+Route 203 by Night at level 7 - 8 with a 10% chance
+=========================================================
+Pineco:
+Route 203 by Poké Radar at level 7 - 8 with a 22% chance
+Route 205 ~ South by Honey Tree at level 12 with a 20% chance
+Route 206 by Honey Tree at level 21 with a 20% chance
+Route 210 ~ South by Honey Tree at level 29 with a 20% chance
+=========================================================
+Diglett:
+Oreburgh Gate ~ 1F by Morning at level 7 - 9 with a 20% chance
+Oreburgh Gate ~ 1F by Day at level 7 - 9 with a 20% chance
+Oreburgh Gate ~ 1F by Night at level 7 - 9 with a 20% chance
+Oreburgh Gate ~ B1F by Morning at level 8 - 10 with a 20% chance
+Oreburgh Gate ~ B1F by Day at level 8 - 10 with a 20% chance
+Oreburgh Gate ~ B1F by Night at level 8 - 10 with a 20% chance
+Maniac Tunnel by Morning at level 28 - 32 with a 25% chance
+Maniac Tunnel by Day at level 28 - 32 with a 25% chance
+Maniac Tunnel by Night at level 28 - 32 with a 25% chance
+=========================================================
+Riolu:
+Oreburgh Gate ~ 1F by Morning at level 7 - 9 with a 10% chance
+Oreburgh Gate ~ 1F by Day at level 7 - 9 with a 10% chance
+Oreburgh Gate ~ 1F by Night at level 7 - 9 with a 10% chance
+Oreburgh Gate ~ B1F by Morning at level 8 - 10 with a 10% chance
+Oreburgh Gate ~ B1F by Day at level 8 - 10 with a 10% chance
+Oreburgh Gate ~ B1F by Night at level 8 - 10 with a 10% chance
+=========================================================
+Golbat:
+Oreburgh Gate ~ B1F by Surf at level 20 - 40 with a 10% chance
+Mt. Coronet ~ Route 207 Entrance by Morning at level 22 - 23 with a 10% chance
+Mt. Coronet ~ Route 207 Entrance by Day at level 22 - 23 with a 10% chance
+Mt. Coronet ~ Route 207 Entrance by Night at level 22 - 23 with a 10% chance
+Mt. Coronet ~ Route 207 Entrance by Surf at level 20 - 40 with a 10% chance
+Lost Tower by Morning at level 26 - 30 with a 15% chance
+Lost Tower by Day at level 26 - 30 with a 15% chance
+Lost Tower by Night at level 26 - 30 with a 15% chance
+Iron Island ~ Inside ~ 1F, B1F by Morning at level 41 - 43 with a 20% chance
+Iron Island ~ Inside ~ 1F, B1F by Day at level 41 - 43 with a 20% chance
+Iron Island ~ Inside ~ 1F, B1F by Night at level 41 - 43 with a 20% chance
+Iron Island ~ Inside ~ B2F, B3F by Morning at level 43 - 45 with a 20% chance
+Iron Island ~ Inside ~ B2F, B3F by Day at level 43 - 45 with a 20% chance
+Iron Island ~ Inside ~ B2F, B3F by Night at level 43 - 45 with a 20% chance
+Snowpoint Temple by Morning at level 47 - 50 with a 25% chance
+Snowpoint Temple by Day at level 47 - 50 with a 25% chance
+Snowpoint Temple by Night at level 47 - 50 with a 25% chance
+Mt. Coronet ~ 2F by Morning at level 49 - 51 with a 10% chance
+Mt. Coronet ~ 2F by Day at level 49 - 51 with a 10% chance
+Mt. Coronet ~ 2F by Night at level 49 - 51 with a 10% chance
+Mt. Coronet ~ 3F by Morning at level 49 - 51 with a 10% chance
+Mt. Coronet ~ 3F by Day at level 49 - 51 with a 10% chance
+Mt. Coronet ~ 3F by Night at level 49 - 51 with a 10% chance
+Mt. Coronet ~ 4F by Morning at level 50 - 52 with a 10% chance
+Mt. Coronet ~ 4F by Day at level 50 - 52 with a 10% chance
+Mt. Coronet ~ 4F by Night at level 50 - 52 with a 10% chance
+Mt. Coronet ~ 4F by Surf at level 35 - 55 with a 10% chance
+Mt. Coronet ~ 5F by Morning at level 51 - 53 with a 10% chance
+Mt. Coronet ~ 5F by Day at level 51 - 53 with a 10% chance
+Mt. Coronet ~ 5F by Night at level 51 - 53 with a 10% chance
+Mt. Coronet ~ 6F by Morning at level 51 - 53 with a 10% chance
+Mt. Coronet ~ 6F by Day at level 51 - 53 with a 10% chance
+Mt. Coronet ~ 6F by Night at level 51 - 53 with a 10% chance
+Mt. Coronet ~ 7F by Morning at level 51 - 53 with a 10% chance
+Mt. Coronet ~ 7F by Day at level 51 - 53 with a 10% chance
+Mt. Coronet ~ 7F by Night at level 51 - 53 with a 10% chance
+Turnback Cave by Morning at level 53 - 54 with a 25% chance
+Turnback Cave by Day at level 53 - 54 with a 25% chance
+Turnback Cave by Night at level 53 - 54 with a 25% chance
+Victory Road ~ 1F by Morning at level 59 with a 20% chance
+Victory Road ~ 1F by Day at level 59 with a 20% chance
+Victory Road ~ 1F by Night at level 59 with a 20% chance
+Victory Road ~ 2F by Morning at level 59 with a 10% chance
+Victory Road ~ 2F by Day at level 59 with a 10% chance
+Victory Road ~ 2F by Night at level 59 with a 10% chance
+Victory Road ~ B1F by Morning at level 59 with a 10% chance
+Victory Road ~ B1F by Day at level 59 with a 10% chance
+Victory Road ~ B1F by Night at level 59 with a 10% chance
+Victory Road ~ B1F by Surf at level 50 - 60 with a 35% chance
+Victory Road ~ 1F Back 1 by Morning at level 59 with a 10% chance
+Victory Road ~ 1F Back 1 by Day at level 59 with a 10% chance
+Victory Road ~ 1F Back 1 by Night at level 59 with a 10% chance
+Victory Road ~ 1F Back 2 by Morning at level 59 with a 10% chance
+Victory Road ~ 1F Back 2 by Day at level 59 with a 10% chance
+Victory Road ~ 1F Back 2 by Night at level 59 with a 10% chance
+Victory Road ~ 1F Back 3 by Morning at level 59 with a 10% chance
+Victory Road ~ 1F Back 3 by Day at level 59 with a 10% chance
+Victory Road ~ 1F Back 3 by Night at level 59 with a 10% chance
+Turnback Cave by Morning at level 65 - 66 with a 20% chance
+Turnback Cave by Day at level 65 - 66 with a 20% chance
+Turnback Cave by Night at level 65 - 66 with a 20% chance
+Stark Mountain (Entrance) by Morning at level 67 - 69 with a 20% chance
+Stark Mountain (Entrance) by Day at level 67 - 69 with a 20% chance
+Stark Mountain (Entrance) by Night at level 67 - 69 with a 20% chance
+Stark Mountain (Interior) by Morning at level 67 - 69 with a 10% chance
+Stark Mountain (Interior) by Day at level 67 - 69 with a 10% chance
+Stark Mountain (Interior) by Night at level 67 - 69 with a 10% chance
+=========================================================
+Machop:
+Route 207 by Morning at level 9 - 10 with a 30% chance
+Route 207 by Day at level 9 - 10 with a 30% chance
+Route 207 by Night at level 9 - 10 with a 30% chance
+Route 211 ~ West by Morning at level 16 - 18 with a 20% chance
+Route 211 ~ West by Day at level 16 - 18 with a 20% chance
+Route 211 ~ West by Night at level 16 - 18 with a 20% chance
+Route 211 ~ East by Morning at level 18 - 19 with a 20% chance
+Route 211 ~ East by Day at level 18 - 19 with a 20% chance
+Route 211 ~ East by Night at level 18 - 19 with a 20% chance
+=========================================================
+Rhyhorn:
+Route 207 by Morning at level 9 - 10 with a 20% chance
+Route 207 by Day at level 9 - 10 with a 20% chance
+Route 207 by Night at level 9 - 10 with a 20% chance
+Route 214 by Morning at level 28 - 32 with a 15% chance
+Route 214 by Day at level 28 - 32 with a 15% chance
+Route 214 by Night at level 28 - 32 with a 15% chance
+=========================================================
+Ponyta:
+Route 207 by Morning at level 9 - 10 with a 20% chance
+Route 207 by Day at level 9 - 10 with a 20% chance
+Route 207 by Night at level 9 - 10 with a 20% chance
+=========================================================
+Phanpy:
+Route 207 by Morning at level 9 - 10 with a 20% chance
+Route 207 by Day at level 9 - 10 with a 20% chance
+Route 207 by Night at level 9 - 10 with a 20% chance
+=========================================================
+Larvitar:
+Route 207 by Morning at level 9 - 10 with a 10% chance
+Route 207 by Day at level 9 - 10 with a 10% chance
+Route 207 by Night at level 9 - 10 with a 10% chance
+=========================================================
+Stantler:
+Route 207 by Poké Radar at level 9 - 10 with a 22% chance
+=========================================================
+Aipom:
+Route 207 by Honey Tree at level 21 with a 30% chance
+Valley Windworks by Honey Tree at level 12 with a 30% chance
+Route 211 ~ East by Honey Tree at level 18 with a 30% chance
+Route 215 by Honey Tree at level 28 with a 30% chance
+Route 214 by Honey Tree at level 30 with a 30% chance
+=========================================================
+Slakoth:
+Route 207 by Honey Tree at level 21 with a 20% chance
+Valley Windworks by Honey Tree at level 12 with a 20% chance
+Eterna Forest by Morning at level 14 - 16 with a 10% chance
+Eterna Forest by Day at level 14 - 16 with a 10% chance
+Eterna Forest by Night at level 14 - 16 with a 10% chance
+Route 211 ~ East by Honey Tree at level 18 with a 20% chance
+=========================================================
+Metapod:
+Route 207 by Honey Tree at level 21 with a 20% chance
+Route 211 ~ East by Honey Tree at level 18 with a 20% chance
+Route 215 by Honey Tree at level 28 with a 20% chance
+=========================================================
+Kakuna:
+Route 207 by Honey Tree at level 21 with a 20% chance
+Route 211 ~ East by Honey Tree at level 18 with a 20% chance
+Route 215 by Honey Tree at level 28 with a 20% chance
+=========================================================
+Munchlax:
+Route 207 by Honey Tree at level 21 with a 10% chance
+Valley Windworks by Honey Tree at level 12 with a 10% chance
+Route 211 ~ East by Honey Tree at level 18 with a 10% chance
+Route 215 by Honey Tree at level 28 with a 10% chance
+Route 214 by Honey Tree at level 30 with a 10% chance
+=========================================================
+Whismur:
+Oreburgh Mine ~ 1F by Morning at level 9 - 10 with a 20% chance
+Oreburgh Mine ~ 1F by Day at level 9 - 10 with a 20% chance
+Oreburgh Mine ~ 1F by Night at level 9 - 10 with a 20% chance
+Oreburgh Mine ~ B1F by Morning at level 10 - 11 with a 20% chance
+Oreburgh Mine ~ B1F by Day at level 10 - 11 with a 20% chance
+Oreburgh Mine ~ B1F by Night at level 10 - 11 with a 20% chance
+Maniac Tunnel by Morning at level 28 - 32 with a 20% chance
+Maniac Tunnel by Day at level 28 - 32 with a 20% chance
+Maniac Tunnel by Night at level 28 - 32 with a 20% chance
+=========================================================
+Aron:
+Oreburgh Mine ~ 1F by Morning at level 9 - 10 with a 10% chance
+Oreburgh Mine ~ 1F by Day at level 9 - 10 with a 10% chance
+Oreburgh Mine ~ 1F by Night at level 9 - 10 with a 10% chance
+Oreburgh Mine ~ B1F by Morning at level 10 - 11 with a 10% chance
+Oreburgh Mine ~ B1F by Day at level 10 - 11 with a 10% chance
+Oreburgh Mine ~ B1F by Night at level 10 - 11 with a 10% chance
+=========================================================
+Onix:
+Oreburgh Mine ~ 1F by Morning at level 9 - 10 with a 10% chance
+Oreburgh Mine ~ 1F by Day at level 9 - 10 with a 10% chance
+Oreburgh Mine ~ 1F by Night at level 9 - 10 with a 10% chance
+Oreburgh Mine ~ B1F by Morning at level 10 - 11 with a 10% chance
+Oreburgh Mine ~ B1F by Day at level 10 - 11 with a 10% chance
+Oreburgh Mine ~ B1F by Night at level 10 - 11 with a 10% chance
+Wayward Cave (Both) by Morning at level 20 - 22 with a 10% chance
+Wayward Cave (Both) by Day at level 20 - 22 with a 10% chance
+Wayward Cave (Both) by Night at level 20 - 22 with a 10% chance
+=========================================================
+Trapinch:
+Oreburgh Mine ~ 1F by Morning at level 9 - 10 with a 10% chance
+Oreburgh Mine ~ 1F by Day at level 9 - 10 with a 10% chance
+Oreburgh Mine ~ 1F by Night at level 9 - 10 with a 10% chance
+Oreburgh Mine ~ B1F by Morning at level 10 - 11 with a 10% chance
+Oreburgh Mine ~ B1F by Day at level 10 - 11 with a 10% chance
+Oreburgh Mine ~ B1F by Night at level 10 - 11 with a 10% chance
+Maniac Tunnel by Morning at level 28 - 32 with a 15% chance
+Maniac Tunnel by Day at level 28 - 32 with a 15% chance
+Maniac Tunnel by Night at level 28 - 32 with a 15% chance
+=========================================================
+Magnemite:
+Valley Windworks by Morning at level 11 - 13 with a 20% chance
+Valley Windworks by Day at level 11 - 13 with a 20% chance
+Valley Windworks by Night at level 11 - 13 with a 20% chance
+Fuego Ironworks by Morning at level 36 - 40 with a 30% chance
+Fuego Ironworks by Day at level 36 - 40 with a 30% chance
+Fuego Ironworks by Night at level 36 - 40 with a 30% chance
+=========================================================
+Elekid:
+Valley Windworks by Morning at level 11 - 13 with a 20% chance
+Valley Windworks by Day at level 11 - 13 with a 20% chance
+Valley Windworks by Night at level 11 - 13 with a 20% chance
+=========================================================
+Electrike:
+Valley Windworks by Morning at level 11 - 13 with a 20% chance
+Valley Windworks by Day at level 11 - 13 with a 20% chance
+Valley Windworks by Night at level 11 - 13 with a 20% chance
+=========================================================
+Voltorb:
+Valley Windworks by Morning at level 11 - 13 with a 20% chance
+Valley Windworks by Day at level 11 - 13 with a 20% chance
+Valley Windworks by Night at level 11 - 13 with a 20% chance
+=========================================================
+Drifloon:
+Valley Windworks by Morning at level 11 - 13 with a 10% chance
+Valley Windworks by Day at level 11 - 13 with a 10% chance
+Valley Windworks by Night at level 11 - 13 with a 10% chance
+=========================================================
+Pachirisu:
+Valley Windworks by Morning at level 11 - 13 with a 10% chance
+Valley Windworks by Day at level 11 - 13 with a 10% chance
+Valley Windworks by Night at level 11 - 13 with a 10% chance
+Route 205 ~ South by Morning at level 11 - 13 with a 10% chance
+Route 205 ~ South by Day at level 11 - 13 with a 10% chance
+Route 205 ~ South by Night at level 11 - 13 with a 10% chance
+=========================================================
+Plusle:
+Valley Windworks by Poké Radar at level 11 - 13 with a 11% chance
+Route 205 ~ South by Poké Radar at level 11 - 13 with a 11% chance
+=========================================================
+Minun:
+Valley Windworks by Poké Radar at level 11 - 13 with a 11% chance
+Route 205 ~ South by Poké Radar at level 11 - 13 with a 11% chance
+=========================================================
+Shellos:
+Valley Windworks by Surf at level 20 - 40 with a 60% chance
+Route 205 ~ South by Morning at level 11 - 13 with a 30% chance
+Route 205 ~ South by Day at level 11 - 13 with a 30% chance
+Route 205 ~ South by Night at level 11 - 13 with a 30% chance
+Route 205 ~ South by Surf at level 20 - 40 with a 60% chance
+Pastoria City by Surf at level 20 - 40 with a 30% chance
+Route 212 ~ South by Surf at level 20 - 40 with a 60% chance
+Fuego Ironworks by Surf at level 30 - 45 with a 60% chance
+Route 218 by Surf at level 20 - 45 with a 30% chance
+Canalave City by Surf at level 30 - 45 with a 30% chance
+=========================================================
+Tentacool:
+Valley Windworks by Surf at level 20 - 40 with a 30% chance
+Route 205 ~ South by Surf at level 20 - 40 with a 30% chance
+Route 213 by Surf at level 20 - 40 with a 60% chance
+Pastoria City by Surf at level 20 - 40 with a 60% chance
+Route 219 by Surf at level vels: 30 - 45 with a 30% chance
+Route 221 by Surf at level 30 - 45 with a 30% chance
+Fuego Ironworks by Surf at level 30 - 45 with a 30% chance
+Route 218 by Surf at level 20 - 45 with a 60% chance
+Canalave City by Surf at level 30 - 45 with a 60% chance
+Iron Island ~ Outside by Surf at level 30 - 45 with a 30% chance
+Route 222 by Surf at level 35 - 55 with a 60% chance
+=========================================================
+Gastrodon:
+Valley Windworks by Surf at level 20 - 40 with a 5% chance
+Route 205 ~ South by Surf at level 20 - 40 with a 5% chance
+Route 213 by Morning at level 32 - 34 with a 25% chance
+Route 213 by Day at level 32 - 34 with a 25% chance
+Route 213 by Night at level 32 - 34 with a 35% chance
+Pastoria City by Surf at level 20 - 40 with a 5% chance
+Route 212 ~ South by Surf at level 20 - 40 with a 5% chance
+Fuego Ironworks by Surf at level 30 - 45 with a 5% chance
+Route 218 by Morning at level 38 - 39 with a 20% chance
+Route 218 by Day at level 38 - 39 with a 20% chance
+Route 218 by Night at level 38 - 39 with a 20% chance
+Route 218 by Surf at level 20 - 45 with a 5% chance
+Canalave City by Surf at level 30 - 45 with a 5% chance
+Route 224 by Morning at level 59 with a 10% chance
+Route 224 by Day at level 59 with a 10% chance
+Route 224 by Night at level 59 with a 10% chance
+Route 224 by Surf at level 50 - 60 with a 10% chance
+Route 230 by Morning at level 65 - 67 with a 15% chance
+Route 230 by Day at level 65 - 67 with a 15% chance
+Route 230 by Night at level 65 - 67 with a 15% chance
+=========================================================
+Tentacruel:
+Valley Windworks by Surf at level 20 - 40 with a 5% chance
+Route 205 ~ South by Surf at level 20 - 40 with a 5% chance
+Route 213 by Surf at level 20 - 40 with a 5% chance
+Pastoria City by Surf at level 20 - 40 with a 5% chance
+Route 219 by Surf at level vels: 30 - 45 with a 5% chance
+Route 221 by Surf at level 30 - 45 with a 5% chance
+Fuego Ironworks by Surf at level 30 - 45 with a 5% chance
+Route 218 by Surf at level 20 - 45 with a 5% chance
+Canalave City by Surf at level 30 - 45 with a 5% chance
+Iron Island ~ Outside by Surf at level 30 - 45 with a 5% chance
+Route 222 by Surf at level 35 - 55 with a 5% chance
+Sunyshore City by Surf at level 50 - 60 with a 60% chance
+Route 223 by Surf at level 50 - 60 with a 60% chance
+Pokémon League by Surf at level 50 - 60 with a 60% chance
+Route 224 by Surf at level 50 - 60 with a 60% chance
+Route 226 by Surf at level 65 - 67 with a 40% chance
+Route 230 by Surf at level 65 - 67 with a 40% chance
+=========================================================
+Shellder:
+Valley Windworks by Old Rod at level 10 with a 30% chance
+Valley Windworks by Good Rod at level 25 with a 30% chance
+Route 205 ~ South by Old Rod at level 10 with a 30% chance
+Route 205 ~ South by Good Rod at level 25 with a 30% chance
+Fuego Ironworks by Super Rod at level 50 with a 5% chance
+=========================================================
+Chinchou:
+Valley Windworks by Old Rod at level 10 with a 10% chance
+Valley Windworks by Good Rod at level 25 with a 10% chance
+Route 205 ~ South by Old Rod at level 10 with a 10% chance
+Route 205 ~ South by Good Rod at level 25 with a 10% chance
+=========================================================
+Cloyster:
+Valley Windworks by Super Rod at level 50 with a 30% chance
+Route 205 ~ South by Super Rod at level 50 with a 30% chance
+=========================================================
+Lanturn:
+Valley Windworks by Super Rod at level 50 with a 10% chance
+Route 205 ~ South by Super Rod at level 50 with a 10% chance
+=========================================================
+Cherubi:
+Floaroma Meadow by Honey Tree at level 12 with a 30% chance
+Route 208 by Honey Tree at level 23 with a 30% chance
+Route 212 ~ North by Honey Tree at level 25 with a 30% chance
+=========================================================
+Shroomish:
+Floaroma Meadow by Honey Tree at level 12 with a 20% chance
+Eterna Forest by Morning at level 14 - 16 with a 20% chance
+Eterna Forest by Day at level 14 - 16 with a 20% chance
+Eterna Forest by Night at level 14 - 16 with a 20% chance
+Route 208 by Honey Tree at level 23 with a 20% chance
+Route 212 ~ North by Honey Tree at level 25 with a 20% chance
+Great Marsh ~ Area 5/6 by Morning at level 33 - 36 with a 20% chance
+Great Marsh ~ Area 5/6 by Day at level 33 - 36 with a 20% chance
+Great Marsh ~ Area 5/6 by Night at level 33 - 36 with a 20% chance
+Route 212 ~ South by Honey Tree at level 34 with a 20% chance
+Route 221 by Honey Tree at level 39 with a 20% chance
+=========================================================
+Exeggcute:
+Floaroma Meadow by Honey Tree at level 12 with a 20% chance
+Route 205 ~ North by Morning at level 15 - 17 with a 10% chance
+Route 205 ~ North by Day at level 15 - 17 with a 10% chance
+Route 205 ~ North by Night at level 15 - 17 with a 10% chance
+Route 208 by Honey Tree at level 23 with a 20% chance
+Route 212 ~ North by Honey Tree at level 25 with a 20% chance
+Great Marsh ~ Area 3/4 by Morning at level 33 - 36 with a 20% chance
+Great Marsh ~ Area 3/4 by Day at level 33 - 36 with a 20% chance
+Great Marsh ~ Area 3/4 by Night at level 33 - 36 with a 20% chance
+Route 212 ~ South by Honey Tree at level 34 with a 20% chance
+Route 221 by Honey Tree at level 39 with a 20% chance
+=========================================================
+Tangela:
+Floaroma Meadow by Honey Tree at level 12 with a 10% chance
+Route 208 by Honey Tree at level 23 with a 10% chance
+Route 212 ~ North by Honey Tree at level 25 with a 10% chance
+Great Marsh ~ Area 1/2 by Morning at level 33 - 36 with a 20% chance
+Great Marsh ~ Area 1/2 by Day at level 33 - 36 with a 20% chance
+Great Marsh ~ Area 1/2 by Night at level 33 - 36 with a 20% chance
+Route 212 ~ South by Honey Tree at level 34 with a 10% chance
+Route 221 by Honey Tree at level 39 with a 10% chance
+Route 222 by Honey Tree at level 54 with a 30% chance
+=========================================================
+Mareep:
+Route 205 ~ South by Morning at level 11 - 13 with a 20% chance
+Route 205 ~ South by Day at level 11 - 13 with a 20% chance
+Route 205 ~ South by Night at level 11 - 13 with a 20% chance
+=========================================================
+Buizel:
+Route 205 ~ South by Morning at level 11 - 13 with a 20% chance
+Route 205 ~ South by Day at level 11 - 13 with a 20% chance
+Route 205 ~ South by Night at level 11 - 13 with a 20% chance
+=========================================================
+Hoppip:
+Route 205 ~ South by Morning at level 11 - 13 with a 20% chance
+Route 205 ~ South by Day at level 11 - 13 with a 20% chance
+=========================================================
+Venonat:
+Route 205 ~ South by Night at level 11 - 13 with a 20% chance
+=========================================================
+Combee:
+Route 205 ~ South by Honey Tree at level 12 with a 30% chance
+Route 206 by Honey Tree at level 21 with a 30% chance
+Route 210 ~ South by Honey Tree at level 29 with a 30% chance
+Fuego Ironworks by Honey Tree at level 40 with a 30% chance
+Route 218 by Honey Tree at level 39 with a 30% chance
+=========================================================
+Heracross:
+Route 205 ~ South by Honey Tree at level 12 with a 10% chance
+Route 206 by Honey Tree at level 21 with a 10% chance
+Route 210 ~ South by Honey Tree at level 29 with a 10% chance
+Fuego Ironworks by Honey Tree at level 40 with a 10% chance
+Route 218 by Honey Tree at level 39 with a 10% chance
+Route 222 by Honey Tree at level 54 with a 30% chance
+=========================================================
+Buneary:
+Eterna Forest by Morning at level 14 - 16 with a 30% chance
+Eterna Forest by Day at level 14 - 16 with a 30% chance
+Eterna Forest by Night at level 14 - 16 with a 30% chance
+=========================================================
+Paras:
+Eterna Forest by Morning at level 14 - 16 with a 20% chance
+Eterna Forest by Day at level 14 - 16 with a 20% chance
+=========================================================
+Nincada:
+Eterna Forest by Morning at level 14 - 16 with a 10% chance
+Eterna Forest by Day at level 14 - 16 with a 10% chance
+Eterna Forest by Night at level 14 - 16 with a 10% chance
+=========================================================
+Taillow:
+Eterna Forest by Morning at level 14 - 16 with a 10% chance
+Eterna Forest by Day at level 14 - 16 with a 10% chance
+Eterna Forest by Night at level 14 - 16 with a 10% chance
+Route 205 ~ North by Honey Tree at level 16 with a 20% chance
+=========================================================
+Murkrow:
+Eterna Forest by Night at level 14 - 16 with a 10% chance
+Lost Tower by Morning at level 26 - 30 with a 10% chance
+Lost Tower by Day at level 26 - 30 with a 10% chance
+Lost Tower by Night at level 26 - 30 with a 10% chance
+=========================================================
+Misdreavus:
+Eterna Forest by Night at level 14 - 16 with a 10% chance
+Lost Tower by Morning at level 26 - 30 with a 10% chance
+Lost Tower by Day at level 26 - 30 with a 10% chance
+Lost Tower by Night at level 26 - 30 with a 10% chance
+=========================================================
+Beautifly:
+Eterna Forest by Poké Radar at level 14 - 16 with a 11% chance
+Fuego Ironworks by Honey Tree at level 40 with a 10% chance
+Route 218 by Honey Tree at level 39 with a 10% chance
+Route 224 by Morning at level 59 with a 20% chance
+Route 224 by Day at level 59 with a 20% chance
+Route 224 by Night at level 59 with a 20% chance
+=========================================================
+Dustox:
+Eterna Forest by Poké Radar at level 14 - 16 with a 11% chance
+Fuego Ironworks by Honey Tree at level 40 with a 10% chance
+Route 218 by Honey Tree at level 39 with a 10% chance
+Route 224 by Morning at level 59 with a 20% chance
+Route 224 by Day at level 59 with a 20% chance
+Route 224 by Night at level 59 with a 20% chance
+=========================================================
+Beedrill:
+Eterna Forest (Outside) by Honey Tree at level 15 with a 100% chance
+Route 214 by Honey Tree at level 30 with a 20% chance
+=========================================================
+Gastly:
+Old Chateau (All Rooms) by Morning at level 15 - 18 with a 40% chance
+Old Chateau (All Rooms) by Day at level 15 - 18 with a 40% chance
+Old Chateau (All Rooms) by Night at level 15 - 18 with a 40% chance
+=========================================================
+Duskull:
+Old Chateau (All Rooms) by Morning at level 15 - 18 with a 10% chance
+Old Chateau (All Rooms) by Day at level 15 - 18 with a 10% chance
+Old Chateau (All Rooms) by Night at level 15 - 18 with a 10% chance
+Lost Tower by Morning at level 26 - 30 with a 20% chance
+Lost Tower by Day at level 26 - 30 with a 20% chance
+Lost Tower by Night at level 26 - 30 with a 20% chance
+=========================================================
+Shuppet:
+Old Chateau (All Rooms) by Morning at level 15 - 18 with a 10% chance
+Old Chateau (All Rooms) by Day at level 15 - 18 with a 10% chance
+Old Chateau (All Rooms) by Night at level 15 - 18 with a 10% chance
+Lost Tower by Morning at level 26 - 30 with a 20% chance
+Lost Tower by Day at level 26 - 30 with a 20% chance
+Lost Tower by Night at level 26 - 30 with a 20% chance
+=========================================================
+Raticate:
+Old Chateau (All Rooms) by Morning at level 15 - 18 with a 5% chance
+Old Chateau (All Rooms) by Day at level 15 - 18 with a 5% chance
+Old Chateau (All Rooms) by Night at level 15 - 18 with a 5% chance
+Route 225 by Morning at level 65 - 67 with a 15% chance
+Route 225 by Day at level 65 - 67 with a 15% chance
+Route 225 by Night at level 65 - 67 with a 15% chance
+Route 226 by Morning at level 65 - 67 with a 20% chance
+Route 226 by Day at level 65 - 67 with a 20% chance
+Route 226 by Night at level 65 - 67 with a 20% chance
+=========================================================
+Haunter:
+Old Chateau (All Rooms) by Morning at level 15 - 18 with a 5% chance
+Old Chateau (All Rooms) by Day at level 15 - 18 with a 5% chance
+Old Chateau (All Rooms) by Night at level 15 - 18 with a 5% chance
+Lost Tower by Morning at level 26 - 30 with a 15% chance
+Lost Tower by Day at level 26 - 30 with a 15% chance
+Lost Tower by Night at level 26 - 30 with a 15% chance
+Turnback Cave by Morning at level 53 - 54 with a 30% chance
+Turnback Cave by Day at level 53 - 54 with a 30% chance
+Turnback Cave by Night at level 53 - 54 with a 30% chance
+Turnback Cave by Morning at level 65 - 66 with a 20% chance
+Turnback Cave by Day at level 65 - 66 with a 20% chance
+Turnback Cave by Night at level 65 - 66 with a 20% chance
+=========================================================
+Slowpoke:
+Route 205 ~ North by Morning at level 15 - 17 with a 20% chance
+Route 205 ~ North by Day at level 15 - 17 with a 20% chance
+Route 205 ~ North by Night at level 15 - 17 with a 20% chance
+=========================================================
+Croagunk:
+Route 205 ~ North by Morning at level 15 - 17 with a 10% chance
+Route 205 ~ North by Day at level 15 - 17 with a 10% chance
+Route 205 ~ North by Night at level 15 - 17 with a 10% chance
+Great Marsh ~ Area 3/4 by Morning at level 33 - 36 with a 20% chance
+Great Marsh ~ Area 3/4 by Day at level 33 - 36 with a 20% chance
+Great Marsh ~ Area 3/4 by Night at level 33 - 36 with a 20% chance
+Route 212 ~ South by Morning at level 33 - 36 with a 20% chance
+Route 212 ~ South by Day at level 33 - 36 with a 20% chance
+Route 212 ~ South by Night at level 33 - 36 with a 20% chance
+=========================================================
+Volbeat:
+Route 205 ~ North by Morning at level 15 - 17 with a 10% chance
+Route 205 ~ North by Day at level 15 - 17 with a 10% chance
+Route 205 ~ North by Night at level 15 - 17 with a 10% chance
+Route 229 by Morning at level 65 - 67 with a 5% chance
+Route 229 by Day at level 65 - 67 with a 5% chance
+Route 229 by Night at level 65 - 67 with a 5% chance
+=========================================================
+Illumise:
+Route 205 ~ North by Morning at level 15 - 17 with a 10% chance
+Route 205 ~ North by Day at level 15 - 17 with a 10% chance
+Route 205 ~ North by Night at level 15 - 17 with a 10% chance
+Route 229 by Morning at level 65 - 67 with a 5% chance
+Route 229 by Day at level 65 - 67 with a 5% chance
+Route 229 by Night at level 65 - 67 with a 5% chance
+=========================================================
+Yanma:
+Route 205 ~ North by Poké Radar at level 15 - 17 with a 22% chance
+Great Marsh ~ Area 3/4 by Morning at level 33 - 36 with a 10% chance
+Great Marsh ~ Area 3/4 by Day at level 33 - 36 with a 10% chance
+Great Marsh ~ Area 3/4 by Night at level 33 - 36 with a 10% chance
+=========================================================
+Farfetch'd:
+Route 205 ~ North by Honey Tree at level 16 with a 10% chance
+Route 212 ~ North by Poké Radar at level 24 - 26 with a 22% chance
+Route 209 by Honey Tree at level 27 with a 10% chance
+Route 213 by Honey Tree at level 33 with a 10% chance
+Route 210 ~ North by Honey Tree at level 37 with a 10% chance
+Route 221 by Morning at level 38 - 40 with a 10% chance
+Route 221 by Day at level 38 - 40 with a 10% chance
+Route 221 by Night at level 38 - 40 with a 10% chance
+Route 222 by Honey Tree at level 54 with a 30% chance
+=========================================================
+Dratini:
+Eterna City by Old Rod at level 10 with a 10% chance
+Eterna City by Good Rod at level 25 with a 10% chance
+Route 210 ~ North by Old Rod at level 10 with a 10% chance
+Route 210 ~ North by Good Rod at level 25 with a 10% chance
+Mt. Coronet ~ 4F by Old Rod at level 10 with a 10% chance
+Mt. Coronet ~ 4F by Good Rod at level 25 with a 10% chance
+=========================================================
+Dragonair:
+Eterna City by Super Rod at level 50 with a 10% chance
+Route 210 ~ North by Super Rod at level 50 with a 10% chance
+Mt. Coronet ~ 4F by Super Rod at level 50 with a 10% chance
+=========================================================
+Meditite:
+Route 211 ~ West by Morning at level 16 - 18 with a 30% chance
+Route 211 ~ West by Day at level 16 - 18 with a 30% chance
+Route 211 ~ West by Night at level 16 - 18 with a 30% chance
+Route 211 ~ East by Morning at level 18 - 19 with a 30% chance
+Route 211 ~ East by Day at level 18 - 19 with a 30% chance
+Route 211 ~ East by Night at level 18 - 19 with a 30% chance
+=========================================================
+Swablu:
+Route 211 ~ West by Morning at level 16 - 18 with a 20% chance
+Route 211 ~ West by Day at level 16 - 18 with a 20% chance
+Route 211 ~ West by Night at level 16 - 18 with a 20% chance
+Route 211 ~ East by Morning at level 18 - 19 with a 20% chance
+Route 211 ~ East by Day at level 18 - 19 with a 20% chance
+Route 211 ~ East by Night at level 18 - 19 with a 20% chance
+Route 210 ~ North by Morning at level 34 - 38 with a 20% chance
+Route 210 ~ North by Day at level 34 - 38 with a 20% chance
+Route 210 ~ North by Night at level 34 - 38 with a 20% chance
+=========================================================
+Teddiursa:
+Route 211 ~ West by Morning at level 16 - 18 with a 10% chance
+Route 211 ~ West by Day at level 16 - 18 with a 10% chance
+Route 211 ~ West by Night at level 16 - 18 with a 10% chance
+Route 211 ~ East by Morning at level 18 - 19 with a 10% chance
+Route 211 ~ East by Day at level 18 - 19 with a 10% chance
+Route 211 ~ East by Night at level 18 - 19 with a 10% chance
+=========================================================
+Natu:
+Route 211 ~ West by Morning at level 16 - 18 with a 10% chance
+Route 211 ~ West by Day at level 16 - 18 with a 10% chance
+Route 211 ~ West by Night at level 16 - 18 with a 10% chance
+Route 211 ~ East by Morning at level 18 - 19 with a 10% chance
+Route 211 ~ East by Day at level 18 - 19 with a 10% chance
+Route 211 ~ East by Night at level 18 - 19 with a 10% chance
+=========================================================
+Chingling:
+Route 211 ~ West by Morning at level 16 - 18 with a 10% chance
+Route 211 ~ West by Day at level 16 - 18 with a 10% chance
+Route 211 ~ West by Night at level 16 - 18 with a 10% chance
+Mt. Coronet ~ Route 211 Entrance by Morning at level 16 - 18 with a 10% chance
+Mt. Coronet ~ Route 211 Entrance by Day at level 16 - 18 with a 10% chance
+Mt. Coronet ~ Route 211 Entrance by Night at level 16 - 18 with a 10% chance
+=========================================================
+Tyrogue:
+Route 211 ~ West by Poké Radar at level 16 - 18 with a 22% chance
+Route 211 ~ East by Poké Radar at level 18 - 19 with a 22% chance
+=========================================================
+Bronzor:
+Mt. Coronet ~ Route 211 Entrance by Morning at level 16 - 18 with a 20% chance
+Mt. Coronet ~ Route 211 Entrance by Day at level 16 - 18 with a 20% chance
+Mt. Coronet ~ Route 211 Entrance by Night at level 16 - 18 with a 20% chance
+Mt. Coronet ~ Tunnel to Route 211 Entrance by Morning at level 18 - 19 with a 20% chance
+Mt. Coronet ~ Tunnel to Route 211 Entrance by Day at level 18 - 19 with a 20% chance
+Mt. Coronet ~ Tunnel to Route 211 Entrance by Night at level 18 - 19 with a 20% chance
+Mt. Coronet ~ B1F by Morning at level 18 - 20 with a 20% chance
+Mt. Coronet ~ B1F by Day at level 18 - 20 with a 20% chance
+Mt. Coronet ~ B1F by Night at level 18 - 20 with a 20% chance
+Mt. Coronet ~ Route 216 Entrance by Morning at level 18 - 19 with a 20% chance
+Mt. Coronet ~ Route 216 Entrance by Day at level 18 - 19 with a 20% chance
+Mt. Coronet ~ Route 216 Entrance by Night at level 18 - 19 with a 20% chance
+Mt. Coronet ~ Route 207 Entrance by Morning at level 22 - 23 with a 20% chance
+Mt. Coronet ~ Route 207 Entrance by Day at level 22 - 23 with a 20% chance
+Mt. Coronet ~ Route 207 Entrance by Night at level 22 - 23 with a 20% chance
+=========================================================
+Cleffa:
+Mt. Coronet ~ Route 211 Entrance by Morning at level 16 - 18 with a 10% chance
+Mt. Coronet ~ Route 211 Entrance by Day at level 16 - 18 with a 10% chance
+Mt. Coronet ~ Route 211 Entrance by Night at level 16 - 18 with a 10% chance
+Trophy Garden by Morning at level 24 - 26 with a 10% chance
+Trophy Garden by Day at level 24 - 26 with a 10% chance
+Trophy Garden by Night at level 24 - 26 with a 10% chance
+=========================================================
+Nosepass:
+Mt. Coronet ~ Route 211 Entrance by Morning at level 16 - 18 with a 10% chance
+Mt. Coronet ~ Route 211 Entrance by Day at level 16 - 18 with a 10% chance
+Mt. Coronet ~ Route 211 Entrance by Night at level 16 - 18 with a 10% chance
+Mt. Coronet ~ Tunnel to Route 211 Entrance by Morning at level 18 - 19 with a 10% chance
+Mt. Coronet ~ Tunnel to Route 211 Entrance by Day at level 18 - 19 with a 10% chance
+Mt. Coronet ~ Tunnel to Route 211 Entrance by Night at level 18 - 19 with a 10% chance
+Mt. Coronet ~ B1F by Morning at level 18 - 20 with a 10% chance
+Mt. Coronet ~ B1F by Day at level 18 - 20 with a 10% chance
+Mt. Coronet ~ B1F by Night at level 18 - 20 with a 10% chance
+Mt. Coronet ~ Route 216 Entrance by Morning at level 18 - 19 with a 10% chance
+Mt. Coronet ~ Route 216 Entrance by Day at level 18 - 19 with a 10% chance
+Mt. Coronet ~ Route 216 Entrance by Night at level 18 - 19 with a 10% chance
+Mt. Coronet ~ Route 207 Entrance by Morning at level 22 - 23 with a 10% chance
+Mt. Coronet ~ Route 207 Entrance by Day at level 22 - 23 with a 10% chance
+Mt. Coronet ~ Route 207 Entrance by Night at level 22 - 23 with a 10% chance
+Iron Island ~ Inside ~ 1F, B1F by Morning at level 41 - 43 with a 10% chance
+Iron Island ~ Inside ~ 1F, B1F by Day at level 41 - 43 with a 10% chance
+Iron Island ~ Inside ~ 1F, B1F by Night at level 41 - 43 with a 10% chance
+Iron Island ~ Inside ~ B2F, B3F by Morning at level 43 - 45 with a 10% chance
+Iron Island ~ Inside ~ B2F, B3F by Day at level 43 - 45 with a 10% chance
+Iron Island ~ Inside ~ B2F, B3F by Night at level 43 - 45 with a 10% chance
+Mt. Coronet ~ 2F by Morning at level 49 - 51 with a 10% chance
+Mt. Coronet ~ 2F by Day at level 49 - 51 with a 10% chance
+Mt. Coronet ~ 2F by Night at level 49 - 51 with a 10% chance
+Mt. Coronet ~ 3F by Morning at level 49 - 51 with a 10% chance
+Mt. Coronet ~ 3F by Day at level 49 - 51 with a 10% chance
+Mt. Coronet ~ 3F by Night at level 49 - 51 with a 10% chance
+Mt. Coronet ~ 4F by Morning at level 50 - 52 with a 10% chance
+Mt. Coronet ~ 4F by Day at level 50 - 52 with a 10% chance
+Mt. Coronet ~ 4F by Night at level 50 - 52 with a 10% chance
+Mt. Coronet ~ 5F by Morning at level 51 - 53 with a 10% chance
+Mt. Coronet ~ 5F by Day at level 51 - 53 with a 10% chance
+Mt. Coronet ~ 5F by Night at level 51 - 53 with a 10% chance
+Mt. Coronet ~ 6F by Morning at level 51 - 53 with a 10% chance
+Mt. Coronet ~ 6F by Day at level 51 - 53 with a 10% chance
+Mt. Coronet ~ 6F by Night at level 51 - 53 with a 10% chance
+Mt. Coronet ~ 7F by Morning at level 51 - 53 with a 10% chance
+Mt. Coronet ~ 7F by Day at level 51 - 53 with a 10% chance
+Mt. Coronet ~ 7F by Night at level 51 - 53 with a 10% chance
+=========================================================
+Beldum:
+Mt. Coronet ~ Route 211 Entrance by Morning at level 16 - 18 with a 10% chance
+Mt. Coronet ~ Route 211 Entrance by Day at level 16 - 18 with a 10% chance
+Mt. Coronet ~ Route 211 Entrance by Night at level 16 - 18 with a 10% chance
+Mt. Coronet ~ Tunnel to Route 211 Entrance by Morning at level 18 - 19 with a 10% chance
+Mt. Coronet ~ Tunnel to Route 211 Entrance by Day at level 18 - 19 with a 10% chance
+Mt. Coronet ~ Tunnel to Route 211 Entrance by Night at level 18 - 19 with a 10% chance
+Mt. Coronet ~ Route 216 Entrance by Morning at level 18 - 19 with a 10% chance
+Mt. Coronet ~ Route 216 Entrance by Day at level 18 - 19 with a 10% chance
+Mt. Coronet ~ Route 216 Entrance by Night at level 18 - 19 with a 10% chance
+=========================================================
+Solrock:
+Mt. Coronet ~ Route 211 Entrance by Morning at level 16 - 18 with a 5% chance
+Mt. Coronet ~ Route 211 Entrance by Day at level 16 - 18 with a 5% chance
+Mt. Coronet ~ Route 211 Entrance by Night at level 16 - 18 with a 5% chance
+Mt. Coronet ~ Tunnel to Route 211 Entrance by Morning at level 18 - 19 with a 5% chance
+Mt. Coronet ~ Tunnel to Route 211 Entrance by Day at level 18 - 19 with a 5% chance
+Mt. Coronet ~ Tunnel to Route 211 Entrance by Night at level 18 - 19 with a 5% chance
+Mt. Coronet ~ B1F by Morning at level 18 - 20 with a 5% chance
+Mt. Coronet ~ B1F by Day at level 18 - 20 with a 5% chance
+Mt. Coronet ~ B1F by Night at level 18 - 20 with a 5% chance
+Mt. Coronet ~ Route 216 Entrance by Morning at level 18 - 19 with a 5% chance
+Mt. Coronet ~ Route 216 Entrance by Day at level 18 - 19 with a 5% chance
+Mt. Coronet ~ Route 216 Entrance by Night at level 18 - 19 with a 5% chance
+Mt. Coronet ~ Route 207 Entrance by Morning at level 22 - 23 with a 5% chance
+Mt. Coronet ~ Route 207 Entrance by Day at level 22 - 23 with a 5% chance
+Mt. Coronet ~ Route 207 Entrance by Night at level 22 - 23 with a 5% chance
+Mt. Coronet ~ 2F by Morning at level 49 - 51 with a 5% chance
+Mt. Coronet ~ 2F by Day at level 49 - 51 with a 5% chance
+Mt. Coronet ~ 2F by Night at level 49 - 51 with a 5% chance
+Mt. Coronet ~ 3F by Morning at level 49 - 51 with a 5% chance
+Mt. Coronet ~ 3F by Day at level 49 - 51 with a 5% chance
+Mt. Coronet ~ 3F by Night at level 49 - 51 with a 5% chance
+Mt. Coronet ~ 4F by Morning at level 50 - 52 with a 5% chance
+Mt. Coronet ~ 4F by Day at level 50 - 52 with a 5% chance
+Mt. Coronet ~ 4F by Night at level 50 - 52 with a 5% chance
+Mt. Coronet ~ 5F by Morning at level 51 - 53 with a 5% chance
+Mt. Coronet ~ 5F by Day at level 51 - 53 with a 5% chance
+Mt. Coronet ~ 5F by Night at level 51 - 53 with a 5% chance
+Mt. Coronet ~ 6F by Morning at level 51 - 53 with a 5% chance
+Mt. Coronet ~ 6F by Day at level 51 - 53 with a 5% chance
+Mt. Coronet ~ 6F by Night at level 51 - 53 with a 5% chance
+Mt. Coronet ~ 7F by Morning at level 51 - 53 with a 5% chance
+Mt. Coronet ~ 7F by Day at level 51 - 53 with a 5% chance
+Mt. Coronet ~ 7F by Night at level 51 - 53 with a 5% chance
+Sendoff Spring by Morning at level 53 - 54 with a 10% chance
+Sendoff Spring by Day at level 53 - 54 with a 10% chance
+Sendoff Spring by Night at level 53 - 54 with a 10% chance
+Turnback Cave by Morning at level 65 - 66 with a 10% chance
+Turnback Cave by Day at level 65 - 66 with a 10% chance
+Turnback Cave by Night at level 65 - 66 with a 10% chance
+=========================================================
+Lunatone:
+Mt. Coronet ~ Route 211 Entrance by Morning at level 16 - 18 with a 5% chance
+Mt. Coronet ~ Route 211 Entrance by Day at level 16 - 18 with a 5% chance
+Mt. Coronet ~ Route 211 Entrance by Night at level 16 - 18 with a 5% chance
+Mt. Coronet ~ Tunnel to Route 211 Entrance by Morning at level 18 - 19 with a 5% chance
+Mt. Coronet ~ Tunnel to Route 211 Entrance by Day at level 18 - 19 with a 5% chance
+Mt. Coronet ~ Tunnel to Route 211 Entrance by Night at level 18 - 19 with a 5% chance
+Mt. Coronet ~ B1F by Morning at level 18 - 20 with a 5% chance
+Mt. Coronet ~ B1F by Day at level 18 - 20 with a 5% chance
+Mt. Coronet ~ B1F by Night at level 18 - 20 with a 5% chance
+Mt. Coronet ~ Route 216 Entrance by Morning at level 18 - 19 with a 5% chance
+Mt. Coronet ~ Route 216 Entrance by Day at level 18 - 19 with a 5% chance
+Mt. Coronet ~ Route 216 Entrance by Night at level 18 - 19 with a 5% chance
+Mt. Coronet ~ Route 207 Entrance by Morning at level 22 - 23 with a 5% chance
+Mt. Coronet ~ Route 207 Entrance by Day at level 22 - 23 with a 5% chance
+Mt. Coronet ~ Route 207 Entrance by Night at level 22 - 23 with a 5% chance
+Mt. Coronet ~ 2F by Morning at level 49 - 51 with a 5% chance
+Mt. Coronet ~ 2F by Day at level 49 - 51 with a 5% chance
+Mt. Coronet ~ 2F by Night at level 49 - 51 with a 5% chance
+Mt. Coronet ~ 3F by Morning at level 49 - 51 with a 5% chance
+Mt. Coronet ~ 3F by Day at level 49 - 51 with a 5% chance
+Mt. Coronet ~ 3F by Night at level 49 - 51 with a 5% chance
+Mt. Coronet ~ 4F by Morning at level 50 - 52 with a 5% chance
+Mt. Coronet ~ 4F by Day at level 50 - 52 with a 5% chance
+Mt. Coronet ~ 4F by Night at level 50 - 52 with a 5% chance
+Mt. Coronet ~ 5F by Morning at level 51 - 53 with a 5% chance
+Mt. Coronet ~ 5F by Day at level 51 - 53 with a 5% chance
+Mt. Coronet ~ 5F by Night at level 51 - 53 with a 5% chance
+Mt. Coronet ~ 6F by Morning at level 51 - 53 with a 5% chance
+Mt. Coronet ~ 6F by Day at level 51 - 53 with a 5% chance
+Mt. Coronet ~ 6F by Night at level 51 - 53 with a 5% chance
+Mt. Coronet ~ 7F by Morning at level 51 - 53 with a 5% chance
+Mt. Coronet ~ 7F by Day at level 51 - 53 with a 5% chance
+Mt. Coronet ~ 7F by Night at level 51 - 53 with a 5% chance
+Sendoff Spring by Morning at level 53 - 54 with a 10% chance
+Sendoff Spring by Day at level 53 - 54 with a 10% chance
+Sendoff Spring by Night at level 53 - 54 with a 10% chance
+Turnback Cave by Morning at level 65 - 66 with a 10% chance
+Turnback Cave by Day at level 65 - 66 with a 10% chance
+Turnback Cave by Night at level 65 - 66 with a 10% chance
+=========================================================
+Bagon:
+Route 211 ~ East by Morning at level 18 - 19 with a 10% chance
+Route 211 ~ East by Day at level 18 - 19 with a 10% chance
+Route 211 ~ East by Night at level 18 - 19 with a 10% chance
+=========================================================
+Clefairy:
+Mt. Coronet ~ Tunnel to Route 211 Entrance by Morning at level 18 - 19 with a 10% chance
+Mt. Coronet ~ Tunnel to Route 211 Entrance by Day at level 18 - 19 with a 10% chance
+Mt. Coronet ~ Tunnel to Route 211 Entrance by Night at level 18 - 19 with a 10% chance
+Mt. Coronet ~ B1F by Morning at level 18 - 20 with a 10% chance
+Mt. Coronet ~ B1F by Day at level 18 - 20 with a 10% chance
+Mt. Coronet ~ B1F by Night at level 18 - 20 with a 10% chance
+Mt. Coronet ~ Route 216 Entrance by Morning at level 18 - 19 with a 10% chance
+Mt. Coronet ~ Route 216 Entrance by Day at level 18 - 19 with a 10% chance
+Mt. Coronet ~ Route 216 Entrance by Night at level 18 - 19 with a 10% chance
+Mt. Coronet ~ Route 207 Entrance by Morning at level 22 - 23 with a 10% chance
+Mt. Coronet ~ Route 207 Entrance by Day at level 22 - 23 with a 10% chance
+Mt. Coronet ~ Route 207 Entrance by Night at level 22 - 23 with a 10% chance
+Mt. Coronet ~ 2F by Morning at level 49 - 51 with a 10% chance
+Mt. Coronet ~ 2F by Day at level 49 - 51 with a 10% chance
+Mt. Coronet ~ 2F by Night at level 49 - 51 with a 10% chance
+Mt. Coronet ~ 3F by Morning at level 49 - 51 with a 10% chance
+Mt. Coronet ~ 3F by Day at level 49 - 51 with a 10% chance
+Mt. Coronet ~ 3F by Night at level 49 - 51 with a 10% chance
+Mt. Coronet ~ 4F by Morning at level 50 - 52 with a 10% chance
+Mt. Coronet ~ 4F by Day at level 50 - 52 with a 10% chance
+Mt. Coronet ~ 4F by Night at level 50 - 52 with a 10% chance
+Mt. Coronet ~ 5F by Morning at level 51 - 53 with a 10% chance
+Mt. Coronet ~ 5F by Day at level 51 - 53 with a 10% chance
+Mt. Coronet ~ 5F by Night at level 51 - 53 with a 10% chance
+Mt. Coronet ~ 6F by Morning at level 51 - 53 with a 10% chance
+Mt. Coronet ~ 6F by Day at level 51 - 53 with a 10% chance
+Mt. Coronet ~ 6F by Night at level 51 - 53 with a 10% chance
+Mt. Coronet ~ 7F by Morning at level 51 - 53 with a 10% chance
+Mt. Coronet ~ 7F by Day at level 51 - 53 with a 10% chance
+Mt. Coronet ~ 7F by Night at level 51 - 53 with a 10% chance
+=========================================================
+Chimecho:
+Mt. Coronet ~ Tunnel to Route 211 Entrance by Morning at level 18 - 19 with a 10% chance
+Mt. Coronet ~ Tunnel to Route 211 Entrance by Day at level 18 - 19 with a 10% chance
+Mt. Coronet ~ Tunnel to Route 211 Entrance by Night at level 18 - 19 with a 10% chance
+Mt. Coronet ~ B1F by Morning at level 18 - 20 with a 10% chance
+Mt. Coronet ~ B1F by Day at level 18 - 20 with a 10% chance
+Mt. Coronet ~ B1F by Night at level 18 - 20 with a 10% chance
+Mt. Coronet ~ Route 216 Entrance by Morning at level 18 - 19 with a 10% chance
+Mt. Coronet ~ Route 216 Entrance by Day at level 18 - 19 with a 10% chance
+Mt. Coronet ~ Route 216 Entrance by Night at level 18 - 19 with a 10% chance
+Mt. Coronet ~ Route 207 Entrance by Morning at level 22 - 23 with a 10% chance
+Mt. Coronet ~ Route 207 Entrance by Day at level 22 - 23 with a 10% chance
+Mt. Coronet ~ Route 207 Entrance by Night at level 22 - 23 with a 10% chance
+Mt. Coronet ~ 2F by Morning at level 49 - 51 with a 10% chance
+Mt. Coronet ~ 2F by Day at level 49 - 51 with a 10% chance
+Mt. Coronet ~ 2F by Night at level 49 - 51 with a 10% chance
+Mt. Coronet ~ 3F by Morning at level 49 - 51 with a 10% chance
+Mt. Coronet ~ 3F by Day at level 49 - 51 with a 10% chance
+Mt. Coronet ~ 3F by Night at level 49 - 51 with a 10% chance
+Mt. Coronet ~ 4F by Morning at level 50 - 52 with a 10% chance
+Mt. Coronet ~ 4F by Day at level 50 - 52 with a 10% chance
+Mt. Coronet ~ 4F by Night at level 50 - 52 with a 10% chance
+Mt. Coronet ~ 5F by Morning at level 51 - 53 with a 10% chance
+Mt. Coronet ~ 5F by Day at level 51 - 53 with a 10% chance
+Mt. Coronet ~ 5F by Night at level 51 - 53 with a 10% chance
+Mt. Coronet ~ 6F by Morning at level 51 - 53 with a 10% chance
+Mt. Coronet ~ 6F by Day at level 51 - 53 with a 10% chance
+Mt. Coronet ~ 6F by Night at level 51 - 53 with a 10% chance
+Mt. Coronet ~ 7F by Morning at level 51 - 53 with a 10% chance
+Mt. Coronet ~ 7F by Day at level 51 - 53 with a 10% chance
+Mt. Coronet ~ 7F by Night at level 51 - 53 with a 10% chance
+Sendoff Spring by Morning at level 53 - 54 with a 20% chance
+Sendoff Spring by Day at level 53 - 54 with a 20% chance
+Sendoff Spring by Night at level 53 - 54 with a 20% chance
+Turnback Cave by Morning at level 53 - 54 with a 10% chance
+Turnback Cave by Day at level 53 - 54 with a 10% chance
+Turnback Cave by Night at level 53 - 54 with a 10% chance
+Turnback Cave by Morning at level 65 - 66 with a 10% chance
+Turnback Cave by Day at level 65 - 66 with a 10% chance
+Turnback Cave by Night at level 65 - 66 with a 10% chance
+=========================================================
+Metang:
+Mt. Coronet ~ B1F by Morning at level 18 - 20 with a 10% chance
+Mt. Coronet ~ B1F by Day at level 18 - 20 with a 10% chance
+Mt. Coronet ~ B1F by Night at level 18 - 20 with a 10% chance
+Mt. Coronet ~ Route 207 Entrance by Morning at level 22 - 23 with a 10% chance
+Mt. Coronet ~ Route 207 Entrance by Day at level 22 - 23 with a 10% chance
+Mt. Coronet ~ Route 207 Entrance by Night at level 22 - 23 with a 10% chance
+Mt. Coronet ~ 2F by Morning at level 49 - 51 with a 10% chance
+Mt. Coronet ~ 2F by Day at level 49 - 51 with a 10% chance
+Mt. Coronet ~ 2F by Night at level 49 - 51 with a 10% chance
+Mt. Coronet ~ 3F by Morning at level 49 - 51 with a 10% chance
+Mt. Coronet ~ 3F by Day at level 49 - 51 with a 10% chance
+Mt. Coronet ~ 3F by Night at level 49 - 51 with a 10% chance
+Mt. Coronet ~ 4F by Morning at level 50 - 52 with a 10% chance
+Mt. Coronet ~ 4F by Day at level 50 - 52 with a 10% chance
+Mt. Coronet ~ 4F by Night at level 50 - 52 with a 10% chance
+Mt. Coronet ~ 5F by Morning at level 51 - 53 with a 10% chance
+Mt. Coronet ~ 5F by Day at level 51 - 53 with a 10% chance
+Mt. Coronet ~ 5F by Night at level 51 - 53 with a 10% chance
+Mt. Coronet ~ 6F by Morning at level 51 - 53 with a 10% chance
+Mt. Coronet ~ 6F by Day at level 51 - 53 with a 10% chance
+Mt. Coronet ~ 6F by Night at level 51 - 53 with a 10% chance
+Mt. Coronet ~ 7F by Morning at level 51 - 53 with a 10% chance
+Mt. Coronet ~ 7F by Day at level 51 - 53 with a 10% chance
+Mt. Coronet ~ 7F by Night at level 51 - 53 with a 10% chance
+Route 228 by Morning at level 65 - 67 with a 5% chance
+Route 228 by Day at level 65 - 67 with a 5% chance
+Route 228 by Night at level 65 - 67 with a 5% chance
+=========================================================
+Spheal:
+Mt. Coronet ~ B1F by Surf at level 30 - 45 with a 60% chance
+=========================================================
+Seel:
+Mt. Coronet ~ B1F by Surf at level 30 - 45 with a 30% chance
+=========================================================
+Sealeo:
+Mt. Coronet ~ B1F by Surf at level 30 - 45 with a 10% chance
+Lake Acuity by Surf at level 45 - 50 with a 60% chance
+Victory Road ~ 1F Back 2 by Surf at level 50 - 60 with a 60% chance
+Route 230 by Surf at level 65 - 67 with a 60% chance
+=========================================================
+Feebas:
+Mt. Coronet ~ B1F by Old Rod at level 10 with a 100% chance
+Mt. Coronet ~ B1F by Good Rod at level 25 with a 100% chance
+Mt. Coronet ~ B1F by Super Rod at level 50 with a 100% chance
+=========================================================
+Snover:
+Route 216 by Morning at level 18 - 20 with a 30% chance
+Route 216 by Day at level 18 - 20 with a 30% chance
+Route 216 by Night at level 18 - 20 with a 30% chance
+=========================================================
+Swinub:
+Route 216 by Morning at level 18 - 20 with a 25% chance
+Route 216 by Day at level 18 - 20 with a 25% chance
+Route 216 by Night at level 18 - 20 with a 25% chance
+=========================================================
+Smoochum:
+Route 216 by Morning at level 18 - 20 with a 20% chance
+Route 216 by Day at level 18 - 20 with a 20% chance
+Route 216 by Night at level 18 - 20 with a 20% chance
+=========================================================
+Snorunt:
+Route 216 by Morning at level 18 - 20 with a 15% chance
+Route 216 by Day at level 18 - 20 with a 15% chance
+Route 216 by Night at level 18 - 20 with a 15% chance
+Route 217 by Morning at level 44 - 48 with a 20% chance
+Route 217 by Day at level 44 - 48 with a 20% chance
+Route 217 by Night at level 44 - 48 with a 20% chance
+Acuity Lakefront by Morning at level 45 - 49 with a 20% chance
+Acuity Lakefront by Day at level 45 - 49 with a 20% chance
+Acuity Lakefront by Night at level 45 - 49 with a 20% chance
+=========================================================
+Sneasel:
+Route 216 by Morning at level 18 - 20 with a 10% chance
+Route 216 by Day at level 18 - 20 with a 10% chance
+Route 216 by Night at level 18 - 20 with a 10% chance
+Route 217 by Morning at level 44 - 48 with a 10% chance
+Route 217 by Day at level 44 - 48 with a 10% chance
+Route 217 by Night at level 44 - 48 with a 10% chance
+Acuity Lakefront by Morning at level 45 - 49 with a 10% chance
+Acuity Lakefront by Day at level 45 - 49 with a 10% chance
+Acuity Lakefront by Night at level 45 - 49 with a 10% chance
+Snowpoint Temple by Morning at level 47 - 50 with a 20% chance
+Snowpoint Temple by Day at level 47 - 50 with a 20% chance
+Snowpoint Temple by Night at level 47 - 50 with a 20% chance
+Lake Acuity by Morning at level 49 - 51 with a 30% chance
+Lake Acuity by Day at level 49 - 51 with a 30% chance
+Lake Acuity by Night at level 49 - 51 with a 30% chance
+=========================================================
+Delibird:
+Route 216 by Poké Radar at level 18 - 20 with a 22% chance
+Route 217 by Morning at level 44 - 48 with a 10% chance
+Route 217 by Day at level 44 - 48 with a 10% chance
+Route 217 by Night at level 44 - 48 with a 10% chance
+Acuity Lakefront by Morning at level 45 - 49 with a 10% chance
+Acuity Lakefront by Day at level 45 - 49 with a 10% chance
+Acuity Lakefront by Night at level 45 - 49 with a 10% chance
+=========================================================
+Stunky:
+Route 206 by Morning at level 20 - 22 with a 20% chance
+Route 206 by Day at level 20 - 22 with a 20% chance
+Route 206 by Night at level 20 - 22 with a 20% chance
+=========================================================
+Slugma:
+Route 206 by Morning at level 20 - 22 with a 20% chance
+Route 206 by Day at level 20 - 22 with a 20% chance
+Route 206 by Night at level 20 - 22 with a 20% chance
+=========================================================
+Mankey:
+Route 206 by Morning at level 20 - 22 with a 20% chance
+Route 206 by Day at level 20 - 22 with a 20% chance
+Route 206 by Night at level 20 - 22 with a 20% chance
+=========================================================
+Magby:
+Route 206 by Morning at level 20 - 22 with a 10% chance
+Route 206 by Day at level 20 - 22 with a 10% chance
+Route 206 by Night at level 20 - 22 with a 10% chance
+=========================================================
+Spoink:
+Route 206 by Morning at level 20 - 22 with a 10% chance
+Route 206 by Day at level 20 - 22 with a 10% chance
+Route 206 by Night at level 20 - 22 with a 10% chance
+Route 214 by Morning at level 28 - 32 with a 10% chance
+Route 214 by Day at level 28 - 32 with a 10% chance
+Route 214 by Night at level 28 - 32 with a 10% chance
+=========================================================
+Numel:
+Route 206 by Morning at level 20 - 22 with a 10% chance
+Route 206 by Day at level 20 - 22 with a 10% chance
+Route 206 by Night at level 20 - 22 with a 10% chance
+Route 214 by Morning at level 28 - 32 with a 15% chance
+Route 214 by Day at level 28 - 32 with a 15% chance
+Route 214 by Night at level 28 - 32 with a 15% chance
+=========================================================
+Gligar:
+Route 206 by Morning at level 20 - 22 with a 10% chance
+Route 206 by Day at level 20 - 22 with a 10% chance
+Route 206 by Night at level 20 - 22 with a 10% chance
+Route 227 by Morning at level 65 - 67 with a 15% chance
+Route 227 by Day at level 65 - 67 with a 15% chance
+Route 227 by Night at level 65 - 67 with a 15% chance
+Stark Mountain (Outside) by Morning at level 66 - 68 with a 10% chance
+Stark Mountain (Outside) by Day at level 66 - 68 with a 10% chance
+Stark Mountain (Outside) by Night at level 66 - 68 with a 10% chance
+=========================================================
+Torkoal:
+Route 206 by Poké Radar at level 20 - 22 with a 22% chance
+Route 227 by Morning at level 65 - 67 with a 10% chance
+Route 227 by Day at level 65 - 67 with a 10% chance
+Route 227 by Night at level 65 - 67 with a 10% chance
+Stark Mountain (Outside) by Morning at level 66 - 68 with a 10% chance
+Stark Mountain (Outside) by Day at level 66 - 68 with a 10% chance
+Stark Mountain (Outside) by Night at level 66 - 68 with a 10% chance
+Stark Mountain (Entrance) by Morning at level 67 - 69 with a 10% chance
+Stark Mountain (Entrance) by Day at level 67 - 69 with a 10% chance
+Stark Mountain (Entrance) by Night at level 67 - 69 with a 10% chance
+Stark Mountain (Interior) by Morning at level 67 - 69 with a 10% chance
+Stark Mountain (Interior) by Day at level 67 - 69 with a 10% chance
+Stark Mountain (Interior) by Night at level 67 - 69 with a 10% chance
+=========================================================
+Silcoon:
+Route 206 by Honey Tree at level 21 with a 10% chance
+Route 210 ~ South by Honey Tree at level 29 with a 10% chance
+=========================================================
+Cascoon:
+Route 206 by Honey Tree at level 21 with a 10% chance
+Route 210 ~ South by Honey Tree at level 29 with a 10% chance
+=========================================================
+Gible:
+Wayward Cave (Both) by Morning at level 20 - 22 with a 20% chance
+Wayward Cave (Both) by Day at level 20 - 22 with a 20% chance
+Wayward Cave (Both) by Night at level 20 - 22 with a 20% chance
+=========================================================
+Baltoy:
+Wayward Cave (Both) by Morning at level 20 - 22 with a 10% chance
+Wayward Cave (Both) by Day at level 20 - 22 with a 10% chance
+Wayward Cave (Both) by Night at level 20 - 22 with a 10% chance
+=========================================================
+Sableye:
+Wayward Cave (Both) by Morning at level 20 - 22 with a 5% chance
+Wayward Cave (Both) by Day at level 20 - 22 with a 5% chance
+Wayward Cave (Both) by Night at level 20 - 22 with a 5% chance
+Iron Island ~ Inside ~ 1F, B1F by Morning at level 41 - 43 with a 10% chance
+Iron Island ~ Inside ~ 1F, B1F by Day at level 41 - 43 with a 10% chance
+Iron Island ~ Inside ~ 1F, B1F by Night at level 41 - 43 with a 10% chance
+Iron Island ~ Inside ~ B2F, B3F by Morning at level 43 - 45 with a 10% chance
+Iron Island ~ Inside ~ B2F, B3F by Day at level 43 - 45 with a 10% chance
+Iron Island ~ Inside ~ B2F, B3F by Night at level 43 - 45 with a 10% chance
+Victory Road ~ B1F by Morning at level 59 with a 10% chance
+Victory Road ~ B1F by Day at level 59 with a 10% chance
+Victory Road ~ B1F by Night at level 59 with a 10% chance
+=========================================================
+Mawile:
+Wayward Cave (Both) by Morning at level 20 - 22 with a 5% chance
+Wayward Cave (Both) by Day at level 20 - 22 with a 5% chance
+Wayward Cave (Both) by Night at level 20 - 22 with a 5% chance
+Iron Island ~ Inside ~ 1F, B1F by Morning at level 41 - 43 with a 10% chance
+Iron Island ~ Inside ~ 1F, B1F by Day at level 41 - 43 with a 10% chance
+Iron Island ~ Inside ~ 1F, B1F by Night at level 41 - 43 with a 10% chance
+Iron Island ~ Inside ~ B2F, B3F by Morning at level 43 - 45 with a 10% chance
+Iron Island ~ Inside ~ B2F, B3F by Day at level 43 - 45 with a 10% chance
+Iron Island ~ Inside ~ B2F, B3F by Night at level 43 - 45 with a 10% chance
+Victory Road ~ B1F by Morning at level 59 with a 10% chance
+Victory Road ~ B1F by Day at level 59 with a 10% chance
+Victory Road ~ B1F by Night at level 59 with a 10% chance
+=========================================================
+Bibarel:
+Route 208 by Morning at level 23 - 24 with a 20% chance
+Route 208 by Day at level 23 - 24 with a 20% chance
+Route 208 by Night at level 23 - 24 with a 20% chance
+Valor Lakefront by Morning at level 31 - 33 with a 20% chance
+Valor Lakefront by Day at level 31 - 33 with a 20% chance
+Valor Lakefront by Night at level 31 - 33 with a 20% chance
+Great Marsh ~ Area 1/2 by Morning at level 33 - 36 with a 30% chance
+Great Marsh ~ Area 1/2 by Day at level 33 - 36 with a 30% chance
+Great Marsh ~ Area 1/2 by Night at level 33 - 36 with a 30% chance
+Sendoff Spring by Morning at level 53 - 54 with a 20% chance
+Sendoff Spring by Day at level 53 - 54 with a 20% chance
+Sendoff Spring by Night at level 53 - 54 with a 20% chance
+Lake Valor by Morning at level 53 - 54 with a 30% chance
+Lake Valor by Day at level 53 - 54 with a 30% chance
+Lake Valor by Night at level 53 - 54 with a 30% chance
+=========================================================
+Skitty:
+Route 208 by Morning at level 23 - 24 with a 10% chance
+Route 208 by Day at level 23 - 24 with a 10% chance
+Route 208 by Night at level 23 - 24 with a 10% chance
+=========================================================
+Jigglypuff:
+Route 208 by Morning at level 23 - 24 with a 10% chance
+Route 208 by Day at level 23 - 24 with a 10% chance
+Route 208 by Night at level 23 - 24 with a 10% chance
+=========================================================
+Kirlia:
+Route 208 by Morning at level 23 - 24 with a 10% chance
+Route 208 by Day at level 23 - 24 with a 10% chance
+Route 208 by Night at level 23 - 24 with a 10% chance
+Route 212 ~ North by Morning at level 24 - 26 with a 10% chance
+Route 212 ~ North by Day at level 24 - 26 with a 10% chance
+Route 212 ~ North by Night at level 24 - 26 with a 10% chance
+=========================================================
+Zangoose:
+Route 208 by Morning at level 23 - 24 with a 10% chance
+Route 208 by Day at level 23 - 24 with a 10% chance
+Route 208 by Night at level 23 - 24 with a 10% chance
+Route 210 ~ North by Morning at level 34 - 38 with a 10% chance
+Route 210 ~ North by Day at level 34 - 38 with a 10% chance
+Route 210 ~ North by Night at level 34 - 38 with a 10% chance
+Route 230 by Morning at level 65 - 67 with a 10% chance
+Route 230 by Day at level 65 - 67 with a 10% chance
+Route 230 by Night at level 65 - 67 with a 10% chance
+=========================================================
+Seviper:
+Route 208 by Morning at level 23 - 24 with a 10% chance
+Route 208 by Day at level 23 - 24 with a 10% chance
+Route 208 by Night at level 23 - 24 with a 10% chance
+Route 210 ~ North by Morning at level 34 - 38 with a 10% chance
+Route 210 ~ North by Day at level 34 - 38 with a 10% chance
+Route 210 ~ North by Night at level 34 - 38 with a 10% chance
+Route 230 by Morning at level 65 - 67 with a 10% chance
+Route 230 by Day at level 65 - 67 with a 10% chance
+Route 230 by Night at level 65 - 67 with a 10% chance
+=========================================================
+Smeargle:
+Route 208 by Morning at level 23 - 24 with a 10% chance
+Route 208 by Day at level 23 - 24 with a 10% chance
+Route 208 by Night at level 23 - 24 with a 10% chance
+Route 212 ~ North by Morning at level 24 - 26 with a 10% chance
+Route 212 ~ North by Day at level 24 - 26 with a 10% chance
+Route 212 ~ North by Night at level 24 - 26 with a 10% chance
+=========================================================
+Dunsparce:
+Route 208 by Poké Radar at level 23 - 24 with a 22% chance
+=========================================================
+Remoraid:
+Route 208 by Old Rod at level 10 with a 10% chance
+Route 208 by Good Rod at level 25 with a 10% chance
+Route 213 by Old Rod at level 10 with a 30% chance
+Route 213 by Good Rod at level 25 with a 30% chance
+Route 212 ~ South by Old Rod at level 10 with a 10% chance
+Route 212 ~ South by Good Rod at level 25 with a 10% chance
+Route 222 by Old Rod at level 10 with a 30% chance
+Route 222 by Good Rod at level 25 with a 30% chance
+Route 223 by Old Rod at level 10 with a 30% chance
+Route 223 by Good Rod at level 25 with a 30% chance
+=========================================================
+Octillery:
+Route 208 by Super Rod at level 50 with a 10% chance
+Route 213 by Super Rod at level 50 with a 30% chance
+Route 212 ~ South by Super Rod at level 50 with a 10% chance
+Route 222 by Super Rod at level 50 with a 5% chance
+Route 223 by Super Rod at level 50 with a 5% chance
+=========================================================
+Staravia:
+Route 212 ~ North by Morning at level 24 - 26 with a 30% chance
+Route 212 ~ North by Day at level 24 - 26 with a 30% chance
+Route 212 ~ North by Night at level 24 - 26 with a 30% chance
+Route 209 by Morning at level 24 - 26 with a 20% chance
+Route 209 by Day at level 24 - 26 with a 20% chance
+Route 209 by Night at level 24 - 26 with a 20% chance
+Route 209 by Honey Tree at level 27 with a 30% chance
+Route 213 by Honey Tree at level 33 with a 30% chance
+Route 210 ~ North by Honey Tree at level 37 with a 30% chance
+Sendoff Spring by Morning at level 53 - 54 with a 30% chance
+Sendoff Spring by Day at level 53 - 54 with a 30% chance
+Sendoff Spring by Night at level 53 - 54 with a 30% chance
+Lake Valor by Morning at level 53 - 54 with a 30% chance
+Lake Valor by Day at level 53 - 54 with a 30% chance
+Lake Valor by Night at level 53 - 54 with a 30% chance
+=========================================================
+Weepinbell:
+Route 212 ~ North by Morning at level 24 - 26 with a 10% chance
+Route 212 ~ North by Day at level 24 - 26 with a 10% chance
+Route 212 ~ North by Night at level 24 - 26 with a 10% chance
+Route 212 ~ South by Morning at level 33 - 36 with a 10% chance
+Route 212 ~ South by Day at level 33 - 36 with a 10% chance
+Route 212 ~ South by Night at level 33 - 36 with a 10% chance
+Route 224 by Morning at level 59 with a 10% chance
+Route 224 by Day at level 59 with a 10% chance
+Route 224 by Night at level 59 with a 10% chance
+Route 229 by Morning at level 65 - 67 with a 5% chance
+Route 229 by Day at level 65 - 67 with a 5% chance
+Route 229 by Night at level 65 - 67 with a 5% chance
+=========================================================
+Gloom:
+Route 212 ~ North by Morning at level 24 - 26 with a 10% chance
+Route 212 ~ North by Day at level 24 - 26 with a 10% chance
+Route 212 ~ North by Night at level 24 - 26 with a 10% chance
+Route 224 by Night at level 59 with a 10% chance
+=========================================================
+Nuzleaf:
+Route 212 ~ North by Honey Tree at level 25 with a 20% chance
+Route 210 ~ South by Morning at level 28 - 30 with a 20% chance
+Route 210 ~ South by Day at level 28 - 30 with a 20% chance
+Route 210 ~ South by Night at level 28 - 30 with a 20% chance
+Route 212 ~ South by Honey Tree at level 34 with a 20% chance
+Route 221 by Honey Tree at level 39 with a 20% chance
+=========================================================
+Pichu:
+Trophy Garden by Morning at level 24 - 26 with a 20% chance
+Trophy Garden by Day at level 24 - 26 with a 20% chance
+Trophy Garden by Night at level 24 - 26 with a 20% chance
+=========================================================
+Pikachu:
+Trophy Garden by Morning at level 24 - 26 with a 20% chance
+Trophy Garden by Day at level 24 - 26 with a 20% chance
+Trophy Garden by Night at level 24 - 26 with a 20% chance
+=========================================================
+Igglybuff:
+Trophy Garden by Morning at level 24 - 26 with a 10% chance
+Trophy Garden by Day at level 24 - 26 with a 10% chance
+Trophy Garden by Night at level 24 - 26 with a 10% chance
+=========================================================
+Togepi:
+Trophy Garden by Morning at level 24 - 26 with a 10% chance
+Trophy Garden by Day at level 24 - 26 with a 10% chance
+Trophy Garden by Night at level 24 - 26 with a 10% chance
+=========================================================
+Porygon:
+Trophy Garden by Morning at level 24 - 26 with a 10% chance
+Trophy Garden by Day at level 24 - 26 with a 10% chance
+Trophy Garden by Night at level 24 - 26 with a 10% chance
+=========================================================
+Happiny:
+Trophy Garden by Morning at level 24 - 26 with a 10% chance
+Trophy Garden by Day at level 24 - 26 with a 10% chance
+Trophy Garden by Night at level 24 - 26 with a 10% chance
+=========================================================
+Eevee:
+Trophy Garden by Morning at level 24 - 26 with a 10% chance
+Trophy Garden by Day at level 24 - 26 with a 10% chance
+Trophy Garden by Night at level 24 - 26 with a 10% chance
+=========================================================
+Castform:
+Trophy Garden by Poké Radar at level 24 - 26 with a 22% chance
+=========================================================
+Glameow:
+Route 209 by Morning at level 24 - 26 with a 20% chance
+Route 209 by Day at level 24 - 26 with a 20% chance
+Route 209 by Night at level 24 - 26 with a 20% chance
+=========================================================
+Vulpix:
+Route 209 by Morning at level 24 - 26 with a 10% chance
+Route 209 by Day at level 24 - 26 with a 10% chance
+Route 209 by Night at level 24 - 26 with a 10% chance
+=========================================================
+Bonsly:
+Route 209 by Morning at level 24 - 26 with a 10% chance
+Route 209 by Day at level 24 - 26 with a 10% chance
+Route 209 by Night at level 24 - 26 with a 10% chance
+=========================================================
+Mime Jr.:
+Route 209 by Morning at level 24 - 26 with a 10% chance
+Route 209 by Day at level 24 - 26 with a 10% chance
+Route 209 by Night at level 24 - 26 with a 10% chance
+=========================================================
+Snubbull:
+Route 209 by Morning at level 24 - 26 with a 10% chance
+Route 209 by Day at level 24 - 26 with a 10% chance
+Route 209 by Night at level 24 - 26 with a 10% chance
+=========================================================
+Meowth:
+Route 209 by Morning at level 24 - 26 with a 10% chance
+Route 209 by Day at level 24 - 26 with a 10% chance
+Route 209 by Night at level 24 - 26 with a 10% chance
+=========================================================
+Chansey:
+Route 209 by Morning at level 24 - 26 with a 10% chance
+Route 209 by Day at level 24 - 26 with a 10% chance
+Route 209 by Night at level 24 - 26 with a 10% chance
+=========================================================
+Purugly:
+Route 209 by Poké Radar at level 24 - 26 with a 22% chance
+Route 218 by Morning at level 38 - 39 with a 10% chance
+Route 218 by Day at level 38 - 39 with a 10% chance
+Route 218 by Night at level 38 - 39 with a 20% chance
+Route 222 by Morning at level 53 - 54 with a 10% chance
+Route 222 by Day at level 53 - 54 with a 10% chance
+Route 222 by Night at level 53 - 54 with a 10% chance
+=========================================================
+Pidgeotto:
+Route 209 by Honey Tree at level 27 with a 20% chance
+Route 210 ~ South by Morning at level 28 - 30 with a 10% chance
+Route 210 ~ South by Day at level 28 - 30 with a 10% chance
+Route 213 by Honey Tree at level 33 with a 20% chance
+Route 210 ~ North by Honey Tree at level 37 with a 20% chance
+=========================================================
+Noctowl:
+Route 209 by Honey Tree at level 27 with a 20% chance
+Route 210 ~ South by Night at level 28 - 30 with a 10% chance
+Route 213 by Honey Tree at level 33 with a 20% chance
+Route 210 ~ North by Honey Tree at level 37 with a 20% chance
+=========================================================
+Swellow:
+Route 209 by Honey Tree at level 27 with a 20% chance
+Route 213 by Morning at level 32 - 34 with a 20% chance
+Route 213 by Day at level 32 - 34 with a 20% chance
+Route 213 by Night at level 32 - 34 with a 20% chance
+Route 213 by Honey Tree at level 33 with a 20% chance
+Route 210 ~ North by Honey Tree at level 37 with a 20% chance
+=========================================================
+Dusclops:
+Lost Tower by Morning at level 26 - 30 with a 5% chance
+Lost Tower by Day at level 26 - 30 with a 5% chance
+Lost Tower by Night at level 26 - 30 with a 5% chance
+Sendoff Spring by Morning at level 53 - 54 with a 10% chance
+Sendoff Spring by Day at level 53 - 54 with a 10% chance
+Sendoff Spring by Night at level 53 - 54 with a 10% chance
+Turnback Cave by Morning at level 53 - 54 with a 10% chance
+Turnback Cave by Day at level 53 - 54 with a 10% chance
+Turnback Cave by Night at level 53 - 54 with a 10% chance
+Turnback Cave by Morning at level 65 - 66 with a 10% chance
+Turnback Cave by Day at level 65 - 66 with a 10% chance
+Turnback Cave by Night at level 65 - 66 with a 10% chance
+=========================================================
+Banette:
+Lost Tower by Morning at level 26 - 30 with a 5% chance
+Lost Tower by Day at level 26 - 30 with a 5% chance
+Lost Tower by Night at level 26 - 30 with a 5% chance
+Turnback Cave by Morning at level 53 - 54 with a 10% chance
+Turnback Cave by Day at level 53 - 54 with a 10% chance
+Turnback Cave by Night at level 53 - 54 with a 10% chance
+Turnback Cave by Morning at level 65 - 66 with a 10% chance
+Turnback Cave by Day at level 65 - 66 with a 10% chance
+Turnback Cave by Night at level 65 - 66 with a 10% chance
+=========================================================
+Unown:
+Solaceon Ruins by Morning at level 20 - 30 with a 100% chance
+Solaceon Ruins by Day at level 20 - 30 with a 100% chance
+Solaceon Ruins by Night at level 20 - 30 with a 100% chance
+=========================================================
+Kricketune:
+Route 210 ~ South by Morning at level 28 - 30 with a 20% chance
+Route 210 ~ South by Day at level 28 - 30 with a 20% chance
+Route 210 ~ South by Night at level 28 - 30 with a 20% chance
+Valor Lakefront by Morning at level 31 - 33 with a 10% chance
+Valor Lakefront by Day at level 31 - 33 with a 10% chance
+Valor Lakefront by Night at level 31 - 33 with a 10% chance
+=========================================================
+Scyther:
+Route 210 ~ South by Morning at level 28 - 30 with a 15% chance
+Route 210 ~ South by Day at level 28 - 30 with a 15% chance
+Route 210 ~ South by Night at level 28 - 30 with a 15% chance
+Route 229 by Morning at level 65 - 67 with a 20% chance
+Route 229 by Day at level 65 - 67 with a 20% chance
+Route 229 by Night at level 65 - 67 with a 20% chance
+=========================================================
+Pinsir:
+Route 210 ~ South by Morning at level 28 - 30 with a 10% chance
+Route 210 ~ South by Day at level 28 - 30 with a 10% chance
+Route 210 ~ South by Night at level 28 - 30 with a 10% chance
+Route 229 by Morning at level 65 - 67 with a 20% chance
+Route 229 by Day at level 65 - 67 with a 20% chance
+Route 229 by Night at level 65 - 67 with a 20% chance
+=========================================================
+Miltank:
+Route 210 ~ South by Morning at level 28 - 30 with a 10% chance
+Route 210 ~ South by Day at level 28 - 30 with a 10% chance
+Route 210 ~ South by Night at level 28 - 30 with a 10% chance
+=========================================================
+Tauros:
+Route 210 ~ South by Morning at level 28 - 30 with a 10% chance
+Route 210 ~ South by Day at level 28 - 30 with a 10% chance
+Route 210 ~ South by Night at level 28 - 30 with a 10% chance
+=========================================================
+Rapidash:
+Route 210 ~ South by Morning at level 28 - 30 with a 5% chance
+Route 210 ~ South by Day at level 28 - 30 with a 5% chance
+Route 210 ~ South by Night at level 28 - 30 with a 5% chance
+Route 226 by Morning at level 65 - 67 with a 10% chance
+Route 226 by Day at level 65 - 67 with a 10% chance
+Route 226 by Night at level 65 - 67 with a 10% chance
+=========================================================
+Kecleon:
+Route 210 ~ South by Poké Radar at level 28 - 30 with a 22% chance
+=========================================================
+Wormadam:
+Route 210 ~ South by Honey Tree at level 29 with a 10% chance
+Fuego Ironworks by Honey Tree at level 40 with a 10% chance
+Route 218 by Honey Tree at level 39 with a 10% chance
+=========================================================
+Mothim:
+Route 210 ~ South by Honey Tree at level 29 with a 10% chance
+Fuego Ironworks by Honey Tree at level 40 with a 10% chance
+Route 218 by Honey Tree at level 39 with a 10% chance
+=========================================================
+Drowzee:
+Route 215 by Morning at level 27 - 30 with a 20% chance
+Route 215 by Day at level 27 - 30 with a 20% chance
+Route 215 by Night at level 27 - 30 with a 20% chance
+=========================================================
+Lickitung:
+Route 215 by Morning at level 27 - 30 with a 15% chance
+Route 215 by Day at level 27 - 30 with a 15% chance
+Route 215 by Night at level 27 - 30 with a 15% chance
+Lake Valor by Morning at level 53 - 54 with a 10% chance
+Lake Valor by Day at level 53 - 54 with a 10% chance
+Lake Valor by Night at level 53 - 54 with a 10% chance
+Victory Road ~ 2F by Morning at level 59 with a 10% chance
+Victory Road ~ 2F by Day at level 59 with a 10% chance
+Victory Road ~ 2F by Night at level 59 with a 10% chance
+=========================================================
+Kadabra:
+Route 215 by Morning at level 27 - 30 with a 15% chance
+Route 215 by Day at level 27 - 30 with a 15% chance
+Route 215 by Night at level 27 - 30 with a 15% chance
+Victory Road ~ 2F by Morning at level 59 with a 10% chance
+Victory Road ~ 2F by Day at level 59 with a 10% chance
+Victory Road ~ 2F by Night at level 59 with a 10% chance
+=========================================================
+Mightyena:
+Route 215 by Morning at level 27 - 30 with a 10% chance
+Route 215 by Day at level 27 - 30 with a 10% chance
+Route 215 by Night at level 27 - 30 with a 10% chance
+=========================================================
+Linoone:
+Route 215 by Morning at level 27 - 30 with a 10% chance
+Route 215 by Day at level 27 - 30 with a 10% chance
+Route 215 by Night at level 27 - 30 with a 10% chance
+=========================================================
+Hypno:
+Route 215 by Morning at level 27 - 30 with a 5% chance
+Route 215 by Day at level 27 - 30 with a 5% chance
+Route 215 by Night at level 27 - 30 with a 5% chance
+=========================================================
+Absol:
+Route 215 by Poké Radar at level 27 - 30 with a 22% chance
+Route 213 by Poké Radar at level 32 - 34 with a 22% chance
+Mt. Coronet ~ Snow Area by Morning at level 50 - 52 with a 10% chance
+Mt. Coronet ~ Snow Area by Day at level 50 - 52 with a 10% chance
+Mt. Coronet ~ Snow Area by Night at level 50 - 52 with a 10% chance
+Mt. Coronet ~ Summit by Morning at level 51 - 53 with a 10% chance
+Mt. Coronet ~ Summit by Day at level 51 - 53 with a 10% chance
+Mt. Coronet ~ Summit by Night at level 51 - 53 with a 10% chance
+=========================================================
+Vigoroth:
+Route 215 by Honey Tree at level 28 with a 20% chance
+Route 214 by Honey Tree at level 30 with a 20% chance
+=========================================================
+Graveler:
+Route 214 by Morning at level 28 - 32 with a 30% chance
+Route 214 by Day at level 28 - 32 with a 30% chance
+Route 214 by Night at level 28 - 32 with a 30% chance
+Iron Island ~ Inside ~ 1F, B1F by Morning at level 41 - 43 with a 25% chance
+Iron Island ~ Inside ~ 1F, B1F by Day at level 41 - 43 with a 25% chance
+Iron Island ~ Inside ~ 1F, B1F by Night at level 41 - 43 with a 25% chance
+Iron Island ~ Inside ~ B2F, B3F by Morning at level 43 - 45 with a 25% chance
+Iron Island ~ Inside ~ B2F, B3F by Day at level 43 - 45 with a 25% chance
+Iron Island ~ Inside ~ B2F, B3F by Night at level 43 - 45 with a 25% chance
+Snowpoint Temple by Morning at level 47 - 50 with a 20% chance
+Snowpoint Temple by Day at level 47 - 50 with a 20% chance
+Snowpoint Temple by Night at level 47 - 50 with a 20% chance
+Mt. Coronet ~ 2F by Morning at level 49 - 51 with a 20% chance
+Mt. Coronet ~ 2F by Day at level 49 - 51 with a 20% chance
+Mt. Coronet ~ 2F by Night at level 49 - 51 with a 20% chance
+Mt. Coronet ~ 3F by Morning at level 49 - 51 with a 20% chance
+Mt. Coronet ~ 3F by Day at level 49 - 51 with a 20% chance
+Mt. Coronet ~ 3F by Night at level 49 - 51 with a 20% chance
+Mt. Coronet ~ 4F by Morning at level 50 - 52 with a 20% chance
+Mt. Coronet ~ 4F by Day at level 50 - 52 with a 20% chance
+Mt. Coronet ~ 4F by Night at level 50 - 52 with a 20% chance
+Mt. Coronet ~ 5F by Morning at level 51 - 53 with a 20% chance
+Mt. Coronet ~ 5F by Day at level 51 - 53 with a 20% chance
+Mt. Coronet ~ 5F by Night at level 51 - 53 with a 20% chance
+Mt. Coronet ~ 6F by Morning at level 51 - 53 with a 20% chance
+Mt. Coronet ~ 6F by Day at level 51 - 53 with a 20% chance
+Mt. Coronet ~ 6F by Night at level 51 - 53 with a 20% chance
+Mt. Coronet ~ 7F by Morning at level 51 - 53 with a 20% chance
+Mt. Coronet ~ 7F by Day at level 51 - 53 with a 20% chance
+Mt. Coronet ~ 7F by Night at level 51 - 53 with a 20% chance
+Victory Road ~ 1F by Morning at level 59 with a 10% chance
+Victory Road ~ 1F by Day at level 59 with a 10% chance
+Victory Road ~ 1F by Night at level 59 with a 10% chance
+Victory Road ~ 2F by Morning at level 59 with a 10% chance
+Victory Road ~ 2F by Day at level 59 with a 10% chance
+Victory Road ~ 2F by Night at level 59 with a 10% chance
+Victory Road ~ B1F by Morning at level 59 with a 10% chance
+Victory Road ~ B1F by Day at level 59 with a 10% chance
+Victory Road ~ B1F by Night at level 59 with a 10% chance
+Victory Road ~ 1F Back 1 by Morning at level 59 with a 10% chance
+Victory Road ~ 1F Back 1 by Day at level 59 with a 10% chance
+Victory Road ~ 1F Back 1 by Night at level 59 with a 10% chance
+Victory Road ~ 1F Back 2 by Morning at level 59 with a 10% chance
+Victory Road ~ 1F Back 2 by Day at level 59 with a 10% chance
+Victory Road ~ 1F Back 2 by Night at level 59 with a 10% chance
+Victory Road ~ 1F Back 3 by Morning at level 59 with a 10% chance
+Victory Road ~ 1F Back 3 by Day at level 59 with a 10% chance
+Victory Road ~ 1F Back 3 by Night at level 59 with a 10% chance
+Route 225 by Morning at level 65 - 67 with a 20% chance
+Route 225 by Day at level 65 - 67 with a 20% chance
+Route 225 by Night at level 65 - 67 with a 20% chance
+Stark Mountain (Entrance) by Morning at level 67 - 69 with a 10% chance
+Stark Mountain (Entrance) by Day at level 67 - 69 with a 10% chance
+Stark Mountain (Entrance) by Night at level 67 - 69 with a 10% chance
+Stark Mountain (Interior) by Morning at level 67 - 69 with a 10% chance
+Stark Mountain (Interior) by Day at level 67 - 69 with a 10% chance
+Stark Mountain (Interior) by Night at level 67 - 69 with a 10% chance
+=========================================================
+Cacnea:
+Route 214 by Morning at level 28 - 32 with a 10% chance
+Route 214 by Day at level 28 - 32 with a 10% chance
+Route 214 by Night at level 28 - 32 with a 10% chance
+=========================================================
+Spinda:
+Route 214 by Poké Radar at level 28 - 32 with a 22% chance
+Route 227 by Morning at level 65 - 67 with a 10% chance
+Route 227 by Day at level 65 - 67 with a 10% chance
+Route 227 by Night at level 65 - 67 with a 10% chance
+=========================================================
+Butterfree:
+Route 214 by Honey Tree at level 30 with a 20% chance
+=========================================================
+Hippopotas:
+Maniac Tunnel by Morning at level 28 - 32 with a 15% chance
+Maniac Tunnel by Day at level 28 - 32 with a 15% chance
+Maniac Tunnel by Night at level 28 - 32 with a 15% chance
+=========================================================
+Loudred:
+Maniac Tunnel by Morning at level 28 - 32 with a 10% chance
+Maniac Tunnel by Day at level 28 - 32 with a 10% chance
+Maniac Tunnel by Night at level 28 - 32 with a 10% chance
+Mt. Coronet ~ Snow Area by Morning at level 50 - 52 with a 20% chance
+Mt. Coronet ~ Snow Area by Day at level 50 - 52 with a 20% chance
+Mt. Coronet ~ Snow Area by Night at level 50 - 52 with a 20% chance
+Mt. Coronet ~ Summit by Morning at level 51 - 53 with a 20% chance
+Mt. Coronet ~ Summit by Day at level 51 - 53 with a 20% chance
+Mt. Coronet ~ Summit by Night at level 51 - 53 with a 20% chance
+=========================================================
+Ditto:
+Maniac Tunnel by Morning at level 28 - 32 with a 10% chance
+Maniac Tunnel by Day at level 28 - 32 with a 10% chance
+Maniac Tunnel by Night at level 28 - 32 with a 10% chance
+Route 218 by Morning at level 38 - 39 with a 10% chance
+Route 218 by Day at level 38 - 39 with a 10% chance
+Route 218 by Night at level 38 - 39 with a 10% chance
+=========================================================
+Dugtrio:
+Maniac Tunnel by Morning at level 28 - 32 with a 5% chance
+Maniac Tunnel by Day at level 28 - 32 with a 5% chance
+Maniac Tunnel by Night at level 28 - 32 with a 5% chance
+Route 228 by Morning at level 65 - 67 with a 20% chance
+Route 228 by Day at level 65 - 67 with a 20% chance
+Route 228 by Night at level 65 - 67 with a 20% chance
+=========================================================
+Girafarig:
+Valor Lakefront by Morning at level 31 - 33 with a 30% chance
+Valor Lakefront by Day at level 31 - 33 with a 30% chance
+Valor Lakefront by Night at level 31 - 33 with a 30% chance
+Route 221 by Morning at level 38 - 40 with a 10% chance
+Route 221 by Day at level 38 - 40 with a 10% chance
+Route 221 by Night at level 38 - 40 with a 10% chance
+=========================================================
+Nidorina:
+Valor Lakefront by Morning at level 31 - 33 with a 20% chance
+Valor Lakefront by Day at level 31 - 33 with a 20% chance
+Valor Lakefront by Night at level 31 - 33 with a 20% chance
+Route 221 by Morning at level 38 - 40 with a 15% chance
+Route 221 by Day at level 38 - 40 with a 15% chance
+Route 221 by Night at level 38 - 40 with a 15% chance
+=========================================================
+Nidorino:
+Valor Lakefront by Morning at level 31 - 33 with a 20% chance
+Valor Lakefront by Day at level 31 - 33 with a 20% chance
+Valor Lakefront by Night at level 31 - 33 with a 20% chance
+Route 221 by Morning at level 38 - 40 with a 15% chance
+Route 221 by Day at level 38 - 40 with a 15% chance
+Route 221 by Night at level 38 - 40 with a 15% chance
+=========================================================
+Venomoth:
+Valor Lakefront by Poké Radar at level 31 - 33 with a 22% chance
+Route 229 by Morning at level 65 - 67 with a 10% chance
+Route 229 by Day at level 65 - 67 with a 10% chance
+Route 229 by Night at level 65 - 67 with a 10% chance
+=========================================================
+Floatzel:
+Route 213 by Morning at level 32 - 34 with a 20% chance
+Route 213 by Day at level 32 - 34 with a 20% chance
+Route 213 by Night at level 32 - 34 with a 20% chance
+Route 218 by Morning at level 38 - 39 with a 20% chance
+Route 218 by Day at level 38 - 39 with a 20% chance
+Route 218 by Night at level 38 - 39 with a 20% chance
+Route 222 by Morning at level 53 - 54 with a 20% chance
+Route 222 by Day at level 53 - 54 with a 20% chance
+Route 222 by Night at level 53 - 54 with a 20% chance
+Victory Road ~ B1F by Morning at level 59 with a 20% chance
+Victory Road ~ B1F by Day at level 59 with a 20% chance
+Victory Road ~ B1F by Night at level 59 with a 20% chance
+Victory Road ~ B1F by Surf at level 50 - 60 with a 65% chance
+Victory Road ~ 1F Back 1 by Morning at level 59 with a 20% chance
+Victory Road ~ 1F Back 1 by Day at level 59 with a 20% chance
+Victory Road ~ 1F Back 1 by Night at level 59 with a 20% chance
+Victory Road ~ 1F Back 2 by Morning at level 59 with a 20% chance
+Victory Road ~ 1F Back 2 by Day at level 59 with a 20% chance
+Victory Road ~ 1F Back 2 by Night at level 59 with a 20% chance
+Victory Road ~ 1F Back 3 by Morning at level 59 with a 20% chance
+Victory Road ~ 1F Back 3 by Day at level 59 with a 20% chance
+Victory Road ~ 1F Back 3 by Night at level 59 with a 20% chance
+Route 230 by Morning at level 65 - 67 with a 20% chance
+Route 230 by Day at level 65 - 67 with a 20% chance
+Route 230 by Night at level 65 - 67 with a 20% chance
+=========================================================
+Pelipper:
+Route 213 by Morning at level 32 - 34 with a 20% chance
+Route 213 by Day at level 32 - 34 with a 20% chance
+Route 213 by Night at level 32 - 34 with a 20% chance
+Route 213 by Surf at level 20 - 40 with a 5% chance
+Route 219 by Surf at level vels: 30 - 45 with a 5% chance
+Route 220 by Surf at level vels: 30 - 45 with a 5% chance
+Route 221 by Surf at level 30 - 45 with a 5% chance
+Iron Island ~ Outside by Surf at level 30 - 45 with a 5% chance
+Route 222 by Morning at level 53 - 54 with a 10% chance
+Route 222 by Day at level 53 - 54 with a 10% chance
+Route 222 by Night at level 53 - 54 with a 10% chance
+Route 222 by Surf at level 35 - 55 with a 5% chance
+Sunyshore City by Surf at level 50 - 60 with a 30% chance
+Route 223 by Surf at level 50 - 60 with a 30% chance
+Pokémon League by Surf at level 50 - 60 with a 30% chance
+Route 224 by Surf at level 50 - 60 with a 30% chance
+Route 226 by Surf at level 65 - 67 with a 60% chance
+Route 230 by Morning at level 65 - 67 with a 20% chance
+Route 230 by Day at level 65 - 67 with a 20% chance
+Route 230 by Night at level 65 - 67 with a 20% chance
+=========================================================
+Chatot:
+Route 213 by Morning at level 32 - 34 with a 10% chance
+Route 213 by Day at level 32 - 34 with a 10% chance
+Route 218 by Morning at level 38 - 39 with a 10% chance
+Route 218 by Day at level 38 - 39 with a 10% chance
+Route 222 by Morning at level 53 - 54 with a 10% chance
+Route 222 by Day at level 53 - 54 with a 10% chance
+Route 224 by Morning at level 59 with a 10% chance
+Route 224 by Day at level 59 with a 10% chance
+=========================================================
+Shuckle:
+Route 213 by Morning at level 32 - 34 with a 5% chance
+Route 213 by Day at level 32 - 34 with a 5% chance
+Route 213 by Night at level 32 - 34 with a 5% chance
+Route 224 by Morning at level 59 with a 10% chance
+Route 224 by Day at level 59 with a 10% chance
+Route 224 by Night at level 59 with a 10% chance
+=========================================================
+Wailmer:
+Route 213 by Old Rod at level 10 with a 10% chance
+Route 213 by Good Rod at level 25 with a 10% chance
+Route 222 by Old Rod at level 10 with a 10% chance
+Route 222 by Good Rod at level 25 with a 10% chance
+Route 222 by Super Rod at level 50 with a 30% chance
+Route 223 by Old Rod at level 10 with a 10% chance
+Route 223 by Good Rod at level 25 with a 10% chance
+Route 223 by Super Rod at level 50 with a 30% chance
+Route 230 by Old Rod at level 10 with a 10% chance
+Route 230 by Good Rod at level 25 with a 10% chance
+=========================================================
+Wailord:
+Route 213 by Super Rod at level 50 with a 10% chance
+Route 222 by Super Rod at level 50 with a 5% chance
+Route 223 by Super Rod at level 50 with a 5% chance
+Route 230 by Super Rod at level 50 with a 10% chance
+=========================================================
+Carvanha:
+Pastoria City by Old Rod at level 10 with a 10% chance
+Pastoria City by Good Rod at level 25 with a 10% chance
+Great Marsh ~ Area 1/2 by Old Rod at level 10 with a 10% chance
+Great Marsh ~ Area 1/2 by Good Rod at level 25 with a 10% chance
+Great Marsh ~ Area 3/4 by Old Rod at level 10 with a 10% chance
+Great Marsh ~ Area 3/4 by Good Rod at level 25 with a 10% chance
+Great Marsh ~ Area 5/6 by Old Rod at level 10 with a 10% chance
+Great Marsh ~ Area 5/6 by Good Rod at level 25 with a 10% chance
+=========================================================
+Sharpedo:
+Pastoria City by Super Rod at level 50 with a 10% chance
+Great Marsh ~ Area 1/2 by Super Rod at level 50 with a 10% chance
+Great Marsh ~ Area 3/4 by Super Rod at level 50 with a 10% chance
+Great Marsh ~ Area 5/6 by Super Rod at level 50 with a 10% chance
+=========================================================
+Tropius:
+Great Marsh ~ Area 1/2 by Morning at level 33 - 36 with a 20% chance
+Great Marsh ~ Area 1/2 by Day at level 33 - 36 with a 20% chance
+Great Marsh ~ Area 1/2 by Night at level 33 - 36 with a 20% chance
+Route 230 by Morning at level 65 - 67 with a 10% chance
+Route 230 by Day at level 65 - 67 with a 10% chance
+Route 230 by Night at level 65 - 67 with a 10% chance
+=========================================================
+Carnivine:
+Great Marsh ~ Area 1/2 by Morning at level 33 - 36 with a 10% chance
+Great Marsh ~ Area 1/2 by Day at level 33 - 36 with a 10% chance
+Great Marsh ~ Area 1/2 by Night at level 33 - 36 with a 10% chance
+=========================================================
+Parasect:
+Great Marsh ~ Area 3/4 by Morning at level 33 - 36 with a 30% chance
+Great Marsh ~ Area 3/4 by Day at level 33 - 36 with a 30% chance
+Great Marsh ~ Area 3/4 by Night at level 33 - 36 with a 30% chance
+=========================================================
+Toxicroak:
+Great Marsh ~ Area 3/4 by Morning at level 33 - 36 with a 10% chance
+Great Marsh ~ Area 3/4 by Day at level 33 - 36 with a 10% chance
+Great Marsh ~ Area 3/4 by Night at level 33 - 36 with a 10% chance
+Route 212 ~ South by Morning at level 33 - 36 with a 5% chance
+Route 212 ~ South by Day at level 33 - 36 with a 5% chance
+Route 212 ~ South by Night at level 33 - 36 with a 5% chance
+=========================================================
+Kangaskhan:
+Great Marsh ~ Area 3/4 by Morning at level 33 - 36 with a 10% chance
+Great Marsh ~ Area 3/4 by Day at level 33 - 36 with a 10% chance
+Great Marsh ~ Area 3/4 by Night at level 33 - 36 with a 10% chance
+=========================================================
+Skorupi:
+Great Marsh ~ Area 5/6 by Morning at level 33 - 36 with a 30% chance
+Great Marsh ~ Area 5/6 by Day at level 33 - 36 with a 30% chance
+Great Marsh ~ Area 5/6 by Night at level 33 - 36 with a 30% chance
+=========================================================
+Gulpin:
+Great Marsh ~ Area 5/6 by Morning at level 33 - 36 with a 20% chance
+Great Marsh ~ Area 5/6 by Day at level 33 - 36 with a 20% chance
+Great Marsh ~ Area 5/6 by Night at level 33 - 36 with a 20% chance
+=========================================================
+Swalot:
+Great Marsh ~ Area 5/6 by Morning at level 33 - 36 with a 10% chance
+Great Marsh ~ Area 5/6 by Day at level 33 - 36 with a 10% chance
+Great Marsh ~ Area 5/6 by Night at level 33 - 36 with a 10% chance
+=========================================================
+Breloom:
+Great Marsh ~ Area 5/6 by Morning at level 33 - 36 with a 10% chance
+Great Marsh ~ Area 5/6 by Day at level 33 - 36 with a 10% chance
+Great Marsh ~ Area 5/6 by Night at level 33 - 36 with a 10% chance
+=========================================================
+Drapion:
+Great Marsh ~ Area 5/6 by Morning at level 33 - 36 with a 10% chance
+Great Marsh ~ Area 5/6 by Day at level 33 - 36 with a 10% chance
+Great Marsh ~ Area 5/6 by Night at level 33 - 36 with a 10% chance
+=========================================================
+Grimer:
+Route 212 ~ South by Morning at level 33 - 36 with a 20% chance
+Route 212 ~ South by Day at level 33 - 36 with a 20% chance
+Route 212 ~ South by Night at level 33 - 36 with a 20% chance
+=========================================================
+Koffing:
+Route 212 ~ South by Morning at level 33 - 36 with a 15% chance
+Route 212 ~ South by Day at level 33 - 36 with a 15% chance
+Route 212 ~ South by Night at level 33 - 36 with a 15% chance
+=========================================================
+Ekans:
+Route 212 ~ South by Morning at level 33 - 36 with a 15% chance
+Route 212 ~ South by Day at level 33 - 36 with a 15% chance
+Route 212 ~ South by Night at level 33 - 36 with a 15% chance
+=========================================================
+Lombre:
+Route 212 ~ South by Morning at level 33 - 36 with a 10% chance
+Route 212 ~ South by Day at level 33 - 36 with a 10% chance
+Route 212 ~ South by Night at level 33 - 36 with a 10% chance
+=========================================================
+Arbok:
+Route 212 ~ South by Morning at level 33 - 36 with a 5% chance
+Route 212 ~ South by Day at level 33 - 36 with a 5% chance
+Route 212 ~ South by Night at level 33 - 36 with a 5% chance
+Route 226 by Morning at level 65 - 67 with a 15% chance
+Route 226 by Day at level 65 - 67 with a 15% chance
+Route 226 by Night at level 65 - 67 with a 15% chance
+=========================================================
+Muk:
+Route 212 ~ South by Poké Radar at level 33 - 36 with a 11% chance
+Stark Mountain (Entrance) by Morning at level 67 - 69 with a 10% chance
+Stark Mountain (Entrance) by Day at level 67 - 69 with a 10% chance
+Stark Mountain (Entrance) by Night at level 67 - 69 with a 10% chance
+Stark Mountain (Interior) by Morning at level 67 - 69 with a 10% chance
+Stark Mountain (Interior) by Day at level 67 - 69 with a 10% chance
+Stark Mountain (Interior) by Night at level 67 - 69 with a 10% chance
+=========================================================
+Weezing:
+Route 212 ~ South by Poké Radar at level 33 - 36 with a 11% chance
+Fuego Ironworks by Poké Radar at level 36 - 40 with a 22% chance
+Route 227 by Morning at level 65 - 67 with a 10% chance
+Route 227 by Day at level 65 - 67 with a 10% chance
+Route 227 by Night at level 65 - 67 with a 10% chance
+Stark Mountain (Entrance) by Morning at level 67 - 69 with a 10% chance
+Stark Mountain (Entrance) by Day at level 67 - 69 with a 10% chance
+Stark Mountain (Entrance) by Night at level 67 - 69 with a 10% chance
+Stark Mountain (Interior) by Morning at level 67 - 69 with a 10% chance
+Stark Mountain (Interior) by Day at level 67 - 69 with a 10% chance
+Stark Mountain (Interior) by Night at level 67 - 69 with a 10% chance
+=========================================================
+Cherrim:
+Route 212 ~ South by Honey Tree at level 34 with a 30% chance
+Route 221 by Honey Tree at level 39 with a 30% chance
+=========================================================
+Fearow:
+Route 210 ~ North by Morning at level 34 - 38 with a 20% chance
+Route 210 ~ North by Day at level 34 - 38 with a 20% chance
+Route 210 ~ North by Night at level 34 - 38 with a 20% chance
+Route 225 by Morning at level 65 - 67 with a 20% chance
+Route 225 by Day at level 65 - 67 with a 20% chance
+Route 225 by Night at level 65 - 67 with a 20% chance
+Route 226 by Morning at level 65 - 67 with a 20% chance
+Route 226 by Day at level 65 - 67 with a 20% chance
+Route 226 by Night at level 65 - 67 with a 20% chance
+Stark Mountain (Outside) by Morning at level 66 - 68 with a 20% chance
+Stark Mountain (Outside) by Day at level 66 - 68 with a 20% chance
+Stark Mountain (Outside) by Night at level 66 - 68 with a 20% chance
+=========================================================
+Machoke:
+Route 210 ~ North by Morning at level 34 - 38 with a 10% chance
+Route 210 ~ North by Day at level 34 - 38 with a 10% chance
+Route 210 ~ North by Night at level 34 - 38 with a 10% chance
+Victory Road ~ 1F by Morning at level 59 with a 20% chance
+Victory Road ~ 1F by Day at level 59 with a 20% chance
+Victory Road ~ 1F by Night at level 59 with a 20% chance
+Victory Road ~ 1F Back 1 by Morning at level 59 with a 10% chance
+Victory Road ~ 1F Back 1 by Day at level 59 with a 10% chance
+Victory Road ~ 1F Back 1 by Night at level 59 with a 10% chance
+Victory Road ~ 1F Back 2 by Morning at level 59 with a 10% chance
+Victory Road ~ 1F Back 2 by Day at level 59 with a 10% chance
+Victory Road ~ 1F Back 2 by Night at level 59 with a 10% chance
+Victory Road ~ 1F Back 3 by Morning at level 59 with a 10% chance
+Victory Road ~ 1F Back 3 by Day at level 59 with a 10% chance
+Victory Road ~ 1F Back 3 by Night at level 59 with a 10% chance
+Route 225 by Morning at level 65 - 67 with a 20% chance
+Route 225 by Day at level 65 - 67 with a 20% chance
+Route 225 by Night at level 65 - 67 with a 20% chance
+Stark Mountain (Outside) by Morning at level 66 - 68 with a 10% chance
+Stark Mountain (Outside) by Day at level 66 - 68 with a 10% chance
+Stark Mountain (Outside) by Night at level 66 - 68 with a 10% chance
+Stark Mountain (Entrance) by Morning at level 67 - 69 with a 10% chance
+Stark Mountain (Entrance) by Day at level 67 - 69 with a 10% chance
+Stark Mountain (Entrance) by Night at level 67 - 69 with a 10% chance
+Stark Mountain (Interior) by Morning at level 67 - 69 with a 10% chance
+Stark Mountain (Interior) by Day at level 67 - 69 with a 10% chance
+Stark Mountain (Interior) by Night at level 67 - 69 with a 10% chance
+=========================================================
+Drifblim:
+Route 210 ~ North by Morning at level 34 - 38 with a 10% chance
+Route 210 ~ North by Day at level 34 - 38 with a 10% chance
+Route 210 ~ North by Night at level 34 - 38 with a 10% chance
+=========================================================
+Skarmory:
+Route 210 ~ North by Morning at level 34 - 38 with a 10% chance
+Route 210 ~ North by Day at level 34 - 38 with a 10% chance
+Route 210 ~ North by Night at level 34 - 38 with a 10% chance
+Route 227 by Morning at level 65 - 67 with a 15% chance
+Route 227 by Day at level 65 - 67 with a 15% chance
+Route 227 by Night at level 65 - 67 with a 15% chance
+Stark Mountain (Outside) by Morning at level 66 - 68 with a 10% chance
+Stark Mountain (Outside) by Day at level 66 - 68 with a 10% chance
+Stark Mountain (Outside) by Night at level 66 - 68 with a 10% chance
+=========================================================
+Shelgon:
+Route 210 ~ North by Morning at level 34 - 38 with a 10% chance
+Route 210 ~ North by Day at level 34 - 38 with a 10% chance
+Route 210 ~ North by Night at level 34 - 38 with a 10% chance
+=========================================================
+Altaria:
+Route 210 ~ North by Poké Radar at level 34 - 38 with a 22% chance
+=========================================================
+Horsea:
+Route 210 ~ North by Old Rod at level 10 with a 30% chance
+Route 210 ~ North by Good Rod at level 25 with a 30% chance
+Route 219 by Old Rod at level 10 with a 30% chance
+Route 219 by Good Rod at level 25 with a 30% chance
+Route 219 by Super Rod at level 50 with a 30% chance
+Route 220 by Old Rod at level 10 with a 30% chance
+Route 220 by Good Rod at level 25 with a 30% chance
+Route 221 by Old Rod at level 10 with a 30% chance
+Route 221 by Good Rod at level 25 with a 30% chance
+Route 221 by Super Rod at level 50 with a 30% chance
+Mt. Coronet ~ 4F by Old Rod at level 10 with a 30% chance
+Mt. Coronet ~ 4F by Good Rod at level 25 with a 30% chance
+Route 226 by Old Rod at level 10 with a 30% chance
+Route 226 by Good Rod at level 25 with a 30% chance
+=========================================================
+Seadra:
+Route 210 ~ North by Super Rod at level 50 with a 30% chance
+Route 220 by Super Rod at level 50 with a 30% chance
+Mt. Coronet ~ 4F by Super Rod at level 50 with a 30% chance
+Route 226 by Super Rod at level 50 with a 30% chance
+=========================================================
+Relicanth:
+Celestic Town by Old Rod at level 10 with a 10% chance
+Celestic Town by Good Rod at level 25 with a 10% chance
+Celestic Town by Super Rod at level 50 with a 10% chance
+Route 226 by Old Rod at level 10 with a 10% chance
+Route 226 by Good Rod at level 25 with a 10% chance
+Route 226 by Super Rod at level 50 with a 10% chance
+=========================================================
+Krabby:
+Route 219 by Old Rod at level 10 with a 60% chance
+Route 219 by Good Rod at level 25 with a 60% chance
+Route 221 by Old Rod at level 10 with a 60% chance
+Route 221 by Good Rod at level 25 with a 60% chance
+Sunyshore City by Old Rod at level 10 with a 30% chance
+Sunyshore City by Good Rod at level 25 with a 30% chance
+=========================================================
+Clamperl:
+Route 219 by Old Rod at level 10 with a 10% chance
+Route 219 by Good Rod at level 25 with a 10% chance
+Route 221 by Old Rod at level 10 with a 10% chance
+Route 221 by Good Rod at level 25 with a 10% chance
+=========================================================
+Kingler:
+Route 219 by Super Rod at level 50 with a 60% chance
+Route 221 by Super Rod at level 50 with a 60% chance
+Sunyshore City by Super Rod at level 50 with a 30% chance
+Route 226 by Morning at level 65 - 67 with a 10% chance
+Route 226 by Day at level 65 - 67 with a 10% chance
+Route 226 by Night at level 65 - 67 with a 10% chance
+=========================================================
+Huntail:
+Route 219 by Super Rod at level 50 with a 5% chance
+Route 221 by Super Rod at level 50 with a 5% chance
+=========================================================
+Gorebyss:
+Route 219 by Super Rod at level 50 with a 5% chance
+Route 221 by Super Rod at level 50 with a 5% chance
+=========================================================
+Mantyke:
+Route 220 by Surf at level vels: 30 - 45 with a 30% chance
+=========================================================
+Mantine:
+Route 220 by Surf at level vels: 30 - 45 with a 5% chance
+Sunyshore City by Surf at level 50 - 60 with a 10% chance
+Route 223 by Surf at level 50 - 60 with a 10% chance
+Pokémon League by Surf at level 50 - 60 with a 10% chance
+=========================================================
+Luvdisc:
+Route 220 by Old Rod at level 10 with a 60% chance
+Route 220 by Good Rod at level 25 with a 60% chance
+Route 220 by Super Rod at level 50 with a 60% chance
+Pokémon League by Old Rod at level 10 with a 30% chance
+Pokémon League by Good Rod at level 25 with a 30% chance
+Pokémon League by Super Rod at level 50 with a 30% chance
+Route 224 by Old Rod at level 10 with a 30% chance
+Route 224 by Good Rod at level 25 with a 30% chance
+Route 224 by Super Rod at level 50 with a 30% chance
+=========================================================
+Corsola:
+Route 220 by Old Rod at level 10 with a 10% chance
+Route 220 by Good Rod at level 25 with a 10% chance
+Route 220 by Super Rod at level 50 with a 10% chance
+Pokémon League by Old Rod at level 10 with a 10% chance
+Pokémon League by Good Rod at level 25 with a 10% chance
+Pokémon League by Super Rod at level 50 with a 10% chance
+Route 224 by Old Rod at level 10 with a 10% chance
+Route 224 by Good Rod at level 25 with a 10% chance
+Route 224 by Super Rod at level 50 with a 10% chance
+Route 230 by Old Rod at level 10 with a 30% chance
+Route 230 by Good Rod at level 25 with a 30% chance
+Route 230 by Super Rod at level 50 with a 30% chance
+=========================================================
+Sudowoodo:
+Route 221 by Morning at level 38 - 40 with a 20% chance
+Route 221 by Day at level 38 - 40 with a 20% chance
+Route 221 by Night at level 38 - 40 with a 20% chance
+=========================================================
+Skuntank:
+Route 221 by Morning at level 38 - 40 with a 20% chance
+Route 221 by Day at level 38 - 40 with a 20% chance
+Route 221 by Night at level 38 - 40 with a 20% chance
+=========================================================
+Dodrio:
+Route 221 by Morning at level 38 - 40 with a 10% chance
+Route 221 by Day at level 38 - 40 with a 10% chance
+Route 221 by Night at level 38 - 40 with a 10% chance
+Route 226 by Morning at level 65 - 67 with a 10% chance
+Route 226 by Day at level 65 - 67 with a 10% chance
+Route 226 by Night at level 65 - 67 with a 10% chance
+=========================================================
+Magmar:
+Fuego Ironworks by Morning at level 36 - 40 with a 20% chance
+Fuego Ironworks by Day at level 36 - 40 with a 20% chance
+Fuego Ironworks by Night at level 36 - 40 with a 20% chance
+Stark Mountain (Outside) by Morning at level 66 - 68 with a 10% chance
+Stark Mountain (Outside) by Day at level 66 - 68 with a 10% chance
+Stark Mountain (Outside) by Night at level 66 - 68 with a 10% chance
+=========================================================
+Magneton:
+Fuego Ironworks by Morning at level 36 - 40 with a 20% chance
+Fuego Ironworks by Day at level 36 - 40 with a 20% chance
+Fuego Ironworks by Night at level 36 - 40 with a 20% chance
+Victory Road ~ 2F by Morning at level 59 with a 20% chance
+Victory Road ~ 2F by Day at level 59 with a 20% chance
+Victory Road ~ 2F by Night at level 59 with a 20% chance
+=========================================================
+Manectric:
+Fuego Ironworks by Morning at level 36 - 40 with a 15% chance
+Fuego Ironworks by Day at level 36 - 40 with a 15% chance
+Fuego Ironworks by Night at level 36 - 40 with a 15% chance
+=========================================================
+Forretress:
+Fuego Ironworks by Morning at level 36 - 40 with a 15% chance
+Fuego Ironworks by Day at level 36 - 40 with a 15% chance
+Fuego Ironworks by Night at level 36 - 40 with a 15% chance
+Fuego Ironworks by Honey Tree at level 40 with a 10% chance
+Route 218 by Honey Tree at level 39 with a 10% chance
+=========================================================
+Finneon:
+Fuego Ironworks by Good Rod at level 25 with a 35% chance
+Route 218 by Old Rod at level 10 with a 30% chance
+Route 218 by Good Rod at level 25 with a 30% chance
+Canalave City by Old Rod at level 10 with a 30% chance
+Canalave City by Good Rod at level 25 with a 30% chance
+Iron Island ~ Outside by Old Rod at level 10 with a 30% chance
+Iron Island ~ Outside by Good Rod at level 25 with a 30% chance
+=========================================================
+Lumineon:
+Fuego Ironworks by Super Rod at level 50 with a 35% chance
+Route 218 by Super Rod at level 50 with a 30% chance
+Canalave City by Super Rod at level 50 with a 30% chance
+Iron Island ~ Outside by Super Rod at level 50 with a 30% chance
+=========================================================
+Vespiquen:
+Fuego Ironworks by Honey Tree at level 40 with a 10% chance
+Route 218 by Honey Tree at level 39 with a 10% chance
+=========================================================
+Mr. Mime:
+Route 218 by Morning at level 38 - 39 with a 10% chance
+Route 218 by Day at level 38 - 39 with a 10% chance
+Route 218 by Night at level 38 - 39 with a 10% chance
+Route 222 by Morning at level 53 - 54 with a 10% chance
+Route 222 by Day at level 53 - 54 with a 10% chance
+Route 222 by Night at level 53 - 54 with a 10% chance
+=========================================================
+Electrode:
+Route 218 by Morning at level 38 - 39 with a 10% chance
+Route 218 by Day at level 38 - 39 with a 10% chance
+Route 218 by Night at level 38 - 39 with a 10% chance
+=========================================================
+Electabuzz:
+Route 218 by Morning at level 38 - 39 with a 10% chance
+Route 218 by Day at level 38 - 39 with a 10% chance
+Route 218 by Night at level 38 - 39 with a 10% chance
+Route 222 by Morning at level 53 - 54 with a 20% chance
+Route 222 by Day at level 53 - 54 with a 20% chance
+Route 222 by Night at level 53 - 54 with a 20% chance
+=========================================================
+Staryu:
+Route 218 by Old Rod at level 10 with a 10% chance
+Route 218 by Good Rod at level 25 with a 10% chance
+Canalave City by Old Rod at level 10 with a 10% chance
+Canalave City by Good Rod at level 25 with a 10% chance
+Sunyshore City by Old Rod at level 10 with a 10% chance
+Sunyshore City by Good Rod at level 25 with a 10% chance
+=========================================================
+Starmie:
+Route 218 by Super Rod at level 50 with a 10% chance
+Canalave City by Super Rod at level 50 with a 10% chance
+Sunyshore City by Super Rod at level 50 with a 10% chance
+=========================================================
+Qwilfish:
+Iron Island ~ Outside by Old Rod at level 10 with a 10% chance
+Iron Island ~ Outside by Good Rod at level 25 with a 10% chance
+Iron Island ~ Outside by Super Rod at level 50 with a 10% chance
+=========================================================
+Lairon:
+Iron Island ~ Inside ~ 1F, B1F by Morning at level 41 - 43 with a 15% chance
+Iron Island ~ Inside ~ 1F, B1F by Day at level 41 - 43 with a 15% chance
+Iron Island ~ Inside ~ 1F, B1F by Night at level 41 - 43 with a 15% chance
+Iron Island ~ Inside ~ B2F, B3F by Morning at level 43 - 45 with a 15% chance
+Iron Island ~ Inside ~ B2F, B3F by Day at level 43 - 45 with a 15% chance
+Iron Island ~ Inside ~ B2F, B3F by Night at level 43 - 45 with a 15% chance
+=========================================================
+Rhydon:
+Iron Island ~ Inside ~ 1F, B1F by Morning at level 41 - 43 with a 5% chance
+Iron Island ~ Inside ~ 1F, B1F by Day at level 41 - 43 with a 5% chance
+Iron Island ~ Inside ~ 1F, B1F by Night at level 41 - 43 with a 5% chance
+Iron Island ~ Inside ~ B2F, B3F by Morning at level 43 - 45 with a 5% chance
+Iron Island ~ Inside ~ B2F, B3F by Day at level 43 - 45 with a 5% chance
+Iron Island ~ Inside ~ B2F, B3F by Night at level 43 - 45 with a 5% chance
+Victory Road ~ 1F by Morning at level 59 with a 10% chance
+Victory Road ~ 1F by Day at level 59 with a 10% chance
+Victory Road ~ 1F by Night at level 59 with a 10% chance
+Route 227 by Morning at level 65 - 67 with a 20% chance
+Route 227 by Day at level 65 - 67 with a 20% chance
+Route 227 by Night at level 65 - 67 with a 20% chance
+Stark Mountain (Outside) by Morning at level 66 - 68 with a 20% chance
+Stark Mountain (Outside) by Day at level 66 - 68 with a 20% chance
+Stark Mountain (Outside) by Night at level 66 - 68 with a 20% chance
+Stark Mountain (Entrance) by Morning at level 67 - 69 with a 20% chance
+Stark Mountain (Entrance) by Day at level 67 - 69 with a 20% chance
+Stark Mountain (Entrance) by Night at level 67 - 69 with a 20% chance
+Stark Mountain (Interior) by Morning at level 67 - 69 with a 20% chance
+Stark Mountain (Interior) by Day at level 67 - 69 with a 20% chance
+Stark Mountain (Interior) by Night at level 67 - 69 with a 20% chance
+=========================================================
+Steelix:
+Iron Island ~ Inside ~ 1F, B1F by Morning at level 41 - 43 with a 5% chance
+Iron Island ~ Inside ~ 1F, B1F by Day at level 41 - 43 with a 5% chance
+Iron Island ~ Inside ~ 1F, B1F by Night at level 41 - 43 with a 5% chance
+Iron Island ~ Inside ~ B2F, B3F by Morning at level 43 - 45 with a 5% chance
+Iron Island ~ Inside ~ B2F, B3F by Day at level 43 - 45 with a 5% chance
+Iron Island ~ Inside ~ B2F, B3F by Night at level 43 - 45 with a 5% chance
+Snowpoint Temple by Morning at level 47 - 50 with a 10% chance
+Snowpoint Temple by Day at level 47 - 50 with a 10% chance
+Snowpoint Temple by Night at level 47 - 50 with a 10% chance
+Victory Road ~ 1F by Morning at level 59 with a 10% chance
+Victory Road ~ 1F by Day at level 59 with a 10% chance
+Victory Road ~ 1F by Night at level 59 with a 10% chance
+Victory Road ~ 2F by Morning at level 59 with a 20% chance
+Victory Road ~ 2F by Day at level 59 with a 20% chance
+Victory Road ~ 2F by Night at level 59 with a 20% chance
+Victory Road ~ 1F Back 1 by Morning at level 59 with a 10% chance
+Victory Road ~ 1F Back 1 by Day at level 59 with a 10% chance
+Victory Road ~ 1F Back 1 by Night at level 59 with a 10% chance
+Victory Road ~ 1F Back 3 by Morning at level 59 with a 10% chance
+Victory Road ~ 1F Back 3 by Day at level 59 with a 10% chance
+Victory Road ~ 1F Back 3 by Night at level 59 with a 10% chance
+=========================================================
+Piloswine:
+Route 217 by Morning at level 44 - 48 with a 30% chance
+Route 217 by Day at level 44 - 48 with a 30% chance
+Route 217 by Night at level 44 - 48 with a 30% chance
+Acuity Lakefront by Morning at level 45 - 49 with a 30% chance
+Acuity Lakefront by Day at level 45 - 49 with a 30% chance
+Acuity Lakefront by Night at level 45 - 49 with a 30% chance
+Lake Acuity by Morning at level 49 - 51 with a 20% chance
+Lake Acuity by Day at level 49 - 51 with a 20% chance
+Lake Acuity by Night at level 49 - 51 with a 20% chance
+=========================================================
+Jynx:
+Route 217 by Morning at level 44 - 48 with a 10% chance
+Route 217 by Day at level 44 - 48 with a 10% chance
+Route 217 by Night at level 44 - 48 with a 10% chance
+Acuity Lakefront by Morning at level 45 - 49 with a 10% chance
+Acuity Lakefront by Day at level 45 - 49 with a 10% chance
+Acuity Lakefront by Night at level 45 - 49 with a 10% chance
+Snowpoint Temple by Morning at level 47 - 50 with a 10% chance
+Snowpoint Temple by Day at level 47 - 50 with a 10% chance
+Snowpoint Temple by Night at level 47 - 50 with a 10% chance
+Lake Acuity by Morning at level 49 - 51 with a 15% chance
+Lake Acuity by Day at level 49 - 51 with a 15% chance
+Lake Acuity by Night at level 49 - 51 with a 15% chance
+=========================================================
+Abomasnow:
+Route 217 by Morning at level 44 - 48 with a 10% chance
+Route 217 by Day at level 44 - 48 with a 10% chance
+Route 217 by Night at level 44 - 48 with a 10% chance
+Acuity Lakefront by Morning at level 45 - 49 with a 10% chance
+Acuity Lakefront by Day at level 45 - 49 with a 10% chance
+Acuity Lakefront by Night at level 45 - 49 with a 10% chance
+Lake Acuity by Morning at level 49 - 51 with a 25% chance
+Lake Acuity by Day at level 49 - 51 with a 25% chance
+Lake Acuity by Night at level 49 - 51 with a 25% chance
+Mt. Coronet ~ Snow Area by Morning at level 50 - 52 with a 30% chance
+Mt. Coronet ~ Snow Area by Day at level 50 - 52 with a 30% chance
+Mt. Coronet ~ Snow Area by Night at level 50 - 52 with a 30% chance
+Mt. Coronet ~ Summit by Morning at level 51 - 53 with a 30% chance
+Mt. Coronet ~ Summit by Day at level 51 - 53 with a 30% chance
+Mt. Coronet ~ Summit by Night at level 51 - 53 with a 30% chance
+=========================================================
+Glalie:
+Route 217 by Morning at level 44 - 48 with a 10% chance
+Route 217 by Day at level 44 - 48 with a 10% chance
+Route 217 by Night at level 44 - 48 with a 10% chance
+Acuity Lakefront by Morning at level 45 - 49 with a 10% chance
+Acuity Lakefront by Day at level 45 - 49 with a 10% chance
+Acuity Lakefront by Night at level 45 - 49 with a 10% chance
+Snowpoint Temple by Morning at level 47 - 50 with a 5% chance
+Snowpoint Temple by Day at level 47 - 50 with a 5% chance
+Snowpoint Temple by Night at level 47 - 50 with a 5% chance
+Lake Acuity by Morning at level 49 - 51 with a 10% chance
+Lake Acuity by Day at level 49 - 51 with a 10% chance
+Lake Acuity by Night at level 49 - 51 with a 10% chance
+=========================================================
+Froslass:
+Route 217 by Poké Radar at level 44 - 48 with a 22% chance
+Acuity Lakefront by Poké Radar at level 45 - 49 with a 22% chance
+Snowpoint Temple by Morning at level 47 - 50 with a 5% chance
+Snowpoint Temple by Day at level 47 - 50 with a 5% chance
+Snowpoint Temple by Night at level 47 - 50 with a 5% chance
+=========================================================
+Weavile:
+Snowpoint Temple by Morning at level 47 - 50 with a 5% chance
+Snowpoint Temple by Day at level 47 - 50 with a 5% chance
+Snowpoint Temple by Night at level 47 - 50 with a 5% chance
+=========================================================
+Wobbuffet:
+Lake Acuity by Poké Radar at level 49 - 51 with a 22% chance
+Sendoff Spring by Poké Radar at level 53 - 54 with a 22% chance
+Lake Valor by Poké Radar at level 53 - 54 with a 22% chance
+=========================================================
+Dewgong:
+Lake Acuity by Surf at level 45 - 50 with a 35% chance
+Victory Road ~ B1F by Morning at level 59 with a 10% chance
+Victory Road ~ B1F by Day at level 59 with a 10% chance
+Victory Road ~ B1F by Night at level 59 with a 10% chance
+Victory Road ~ 1F Back 2 by Morning at level 59 with a 10% chance
+Victory Road ~ 1F Back 2 by Day at level 59 with a 10% chance
+Victory Road ~ 1F Back 2 by Night at level 59 with a 10% chance
+Victory Road ~ 1F Back 2 by Surf at level 50 - 60 with a 30% chance
+=========================================================
+Lapras:
+Lake Acuity by Surf at level 45 - 50 with a 5% chance
+Victory Road ~ 1F Back 2 by Surf at level 50 - 60 with a 10% chance
+=========================================================
+Bronzong:
+Mt. Coronet ~ 2F by Morning at level 49 - 51 with a 20% chance
+Mt. Coronet ~ 2F by Day at level 49 - 51 with a 20% chance
+Mt. Coronet ~ 2F by Night at level 49 - 51 with a 20% chance
+Mt. Coronet ~ 3F by Morning at level 49 - 51 with a 20% chance
+Mt. Coronet ~ 3F by Day at level 49 - 51 with a 20% chance
+Mt. Coronet ~ 3F by Night at level 49 - 51 with a 20% chance
+Mt. Coronet ~ 4F by Morning at level 50 - 52 with a 20% chance
+Mt. Coronet ~ 4F by Day at level 50 - 52 with a 20% chance
+Mt. Coronet ~ 4F by Night at level 50 - 52 with a 20% chance
+Mt. Coronet ~ 5F by Morning at level 51 - 53 with a 20% chance
+Mt. Coronet ~ 5F by Day at level 51 - 53 with a 20% chance
+Mt. Coronet ~ 5F by Night at level 51 - 53 with a 20% chance
+Mt. Coronet ~ 6F by Morning at level 51 - 53 with a 20% chance
+Mt. Coronet ~ 6F by Day at level 51 - 53 with a 20% chance
+Mt. Coronet ~ 6F by Night at level 51 - 53 with a 20% chance
+Mt. Coronet ~ 7F by Morning at level 51 - 53 with a 20% chance
+Mt. Coronet ~ 7F by Day at level 51 - 53 with a 20% chance
+Mt. Coronet ~ 7F by Night at level 51 - 53 with a 20% chance
+Turnback Cave by Morning at level 53 - 54 with a 15% chance
+Turnback Cave by Day at level 53 - 54 with a 15% chance
+Turnback Cave by Night at level 53 - 54 with a 15% chance
+Turnback Cave by Morning at level 65 - 66 with a 10% chance
+Turnback Cave by Day at level 65 - 66 with a 10% chance
+Turnback Cave by Night at level 65 - 66 with a 10% chance
+=========================================================
+Medicham:
+Mt. Coronet ~ Snow Area by Morning at level 50 - 52 with a 20% chance
+Mt. Coronet ~ Snow Area by Day at level 50 - 52 with a 20% chance
+Mt. Coronet ~ Snow Area by Night at level 50 - 52 with a 20% chance
+Mt. Coronet ~ Summit by Morning at level 51 - 53 with a 20% chance
+Mt. Coronet ~ Summit by Day at level 51 - 53 with a 20% chance
+Mt. Coronet ~ Summit by Night at level 51 - 53 with a 20% chance
+Victory Road ~ 1F by Morning at level 59 with a 10% chance
+Victory Road ~ 1F by Day at level 59 with a 10% chance
+Victory Road ~ 1F by Night at level 59 with a 10% chance
+Victory Road ~ 1F Back 1 by Morning at level 59 with a 10% chance
+Victory Road ~ 1F Back 1 by Day at level 59 with a 10% chance
+Victory Road ~ 1F Back 1 by Night at level 59 with a 10% chance
+Victory Road ~ 1F Back 2 by Morning at level 59 with a 10% chance
+Victory Road ~ 1F Back 2 by Day at level 59 with a 10% chance
+Victory Road ~ 1F Back 2 by Night at level 59 with a 10% chance
+Victory Road ~ 1F Back 3 by Morning at level 59 with a 10% chance
+Victory Road ~ 1F Back 3 by Day at level 59 with a 10% chance
+Victory Road ~ 1F Back 3 by Night at level 59 with a 10% chance
+=========================================================
+Donphan:
+Mt. Coronet ~ Snow Area by Morning at level 50 - 52 with a 10% chance
+Mt. Coronet ~ Snow Area by Day at level 50 - 52 with a 10% chance
+Mt. Coronet ~ Snow Area by Night at level 50 - 52 with a 10% chance
+Mt. Coronet ~ Summit by Morning at level 51 - 53 with a 10% chance
+Mt. Coronet ~ Summit by Day at level 51 - 53 with a 10% chance
+Mt. Coronet ~ Summit by Night at level 51 - 53 with a 10% chance
+=========================================================
+Ursaring:
+Mt. Coronet ~ Snow Area by Morning at level 50 - 52 with a 10% chance
+Mt. Coronet ~ Snow Area by Day at level 50 - 52 with a 10% chance
+Mt. Coronet ~ Snow Area by Night at level 50 - 52 with a 10% chance
+Mt. Coronet ~ Summit by Morning at level 51 - 53 with a 10% chance
+Mt. Coronet ~ Summit by Day at level 51 - 53 with a 10% chance
+Mt. Coronet ~ Summit by Night at level 51 - 53 with a 10% chance
+=========================================================
+Clefable:
+Mt. Coronet ~ Snow Area by Poké Radar at level 50 - 52 with a 22% chance
+Mt. Coronet ~ Summit by Poké Radar at level 51 - 53 with a 22% chance
+=========================================================
+Luxio:
+Route 222 by Morning at level 53 - 54 with a 10% chance
+Route 222 by Day at level 53 - 54 with a 10% chance
+Route 222 by Night at level 53 - 54 with a 20% chance
+=========================================================
+Flaaffy:
+Route 222 by Morning at level 53 - 54 with a 10% chance
+Route 222 by Day at level 53 - 54 with a 10% chance
+Route 222 by Night at level 53 - 54 with a 10% chance
+=========================================================
+Delcatty:
+Route 222 by Poké Radar at level 53 - 54 with a 22% chance
+=========================================================
+Snorlax:
+Route 222 by Honey Tree at level 54 with a 10% chance
+=========================================================
+Hariyama:
+Victory Road ~ 1F by Morning at level 59 with a 10% chance
+Victory Road ~ 1F by Day at level 59 with a 10% chance
+Victory Road ~ 1F by Night at level 59 with a 10% chance
+Route 225 by Morning at level 65 - 67 with a 5% chance
+Route 225 by Day at level 65 - 67 with a 5% chance
+Route 225 by Night at level 65 - 67 with a 5% chance
+=========================================================
+Gabite:
+Victory Road ~ 1F by Morning at level 59 with a 10% chance
+Victory Road ~ 1F by Day at level 59 with a 10% chance
+Victory Road ~ 1F by Night at level 59 with a 10% chance
+Victory Road ~ 2F by Morning at level 59 with a 10% chance
+Victory Road ~ 2F by Day at level 59 with a 10% chance
+Victory Road ~ 2F by Night at level 59 with a 10% chance
+Victory Road ~ B1F by Morning at level 59 with a 10% chance
+Victory Road ~ B1F by Day at level 59 with a 10% chance
+Victory Road ~ B1F by Night at level 59 with a 10% chance
+Victory Road ~ 1F Back 1 by Morning at level 59 with a 10% chance
+Victory Road ~ 1F Back 1 by Day at level 59 with a 10% chance
+Victory Road ~ 1F Back 1 by Night at level 59 with a 10% chance
+Victory Road ~ 1F Back 2 by Morning at level 59 with a 10% chance
+Victory Road ~ 1F Back 2 by Day at level 59 with a 10% chance
+Victory Road ~ 1F Back 2 by Night at level 59 with a 10% chance
+Victory Road ~ 1F Back 3 by Morning at level 59 with a 10% chance
+Victory Road ~ 1F Back 3 by Day at level 59 with a 10% chance
+Victory Road ~ 1F Back 3 by Night at level 59 with a 10% chance
+Route 228 by Morning at level 65 - 67 with a 5% chance
+Route 228 by Day at level 65 - 67 with a 5% chance
+Route 228 by Night at level 65 - 67 with a 5% chance
+=========================================================
+Marowak:
+Victory Road ~ 2F by Morning at level 59 with a 10% chance
+Victory Road ~ 2F by Day at level 59 with a 10% chance
+Victory Road ~ 2F by Night at level 59 with a 10% chance
+=========================================================
+Xatu:
+Route 224 by Morning at level 59 with a 10% chance
+Route 224 by Day at level 59 with a 10% chance
+Route 224 by Night at level 59 with a 10% chance
+=========================================================
+Primeape:
+Route 225 by Morning at level 65 - 67 with a 15% chance
+Route 225 by Day at level 65 - 67 with a 15% chance
+Route 225 by Night at level 65 - 67 with a 15% chance
+=========================================================
+Grumpig:
+Route 225 by Morning at level 65 - 67 with a 5% chance
+Route 225 by Day at level 65 - 67 with a 5% chance
+Route 225 by Night at level 65 - 67 with a 5% chance
+=========================================================
+Sandslash:
+Route 226 by Morning at level 65 - 67 with a 15% chance
+Route 226 by Day at level 65 - 67 with a 15% chance
+Route 226 by Night at level 65 - 67 with a 15% chance
+Route 228 by Morning at level 65 - 67 with a 20% chance
+Route 228 by Day at level 65 - 67 with a 20% chance
+Route 228 by Night at level 65 - 67 with a 20% chance
+=========================================================
+Camerupt:
+Route 227 by Morning at level 65 - 67 with a 20% chance
+Route 227 by Day at level 65 - 67 with a 20% chance
+Route 227 by Night at level 65 - 67 with a 20% chance
+Stark Mountain (Outside) by Morning at level 66 - 68 with a 10% chance
+Stark Mountain (Outside) by Day at level 66 - 68 with a 10% chance
+Stark Mountain (Outside) by Night at level 66 - 68 with a 10% chance
+=========================================================
+Cacturne:
+Route 228 by Morning at level 65 - 67 with a 20% chance
+Route 228 by Day at level 65 - 67 with a 20% chance
+Route 228 by Night at level 65 - 67 with a 20% chance
+=========================================================
+Vibrava:
+Route 228 by Morning at level 65 - 67 with a 10% chance
+Route 228 by Day at level 65 - 67 with a 10% chance
+Route 228 by Night at level 65 - 67 with a 10% chance
+=========================================================
+Claydol:
+Route 228 by Morning at level 65 - 67 with a 10% chance
+Route 228 by Day at level 65 - 67 with a 10% chance
+Route 228 by Night at level 65 - 67 with a 10% chance
+=========================================================
+Hippowdon:
+Route 228 by Morning at level 65 - 67 with a 10% chance
+Route 228 by Day at level 65 - 67 with a 10% chance
+Route 228 by Night at level 65 - 67 with a 10% chance
+=========================================================
+Ledian:
+Route 229 by Morning at level 65 - 67 with a 20% chance
+=========================================================
+Ariados:
+Route 229 by Night at level 65 - 67 with a 20% chance
+=========================================================
+Togetic:
+Route 230 by Morning at level 65 - 67 with a 5% chance
+Route 230 by Day at level 65 - 67 with a 5% chance
+Route 230 by Night at level 65 - 67 with a 5% chance
+=========================================================
+Magcargo:
+Stark Mountain (Entrance) by Morning at level 67 - 69 with a 10% chance
+Stark Mountain (Entrance) by Day at level 67 - 69 with a 10% chance
+Stark Mountain (Entrance) by Night at level 67 - 69 with a 10% chance
+Stark Mountain (Interior) by Morning at level 67 - 69 with a 20% chance
+Stark Mountain (Interior) by Day at level 67 - 69 with a 20% chance
+Stark Mountain (Interior) by Night at level 67 - 69 with a 20% chance
+=========================================================
